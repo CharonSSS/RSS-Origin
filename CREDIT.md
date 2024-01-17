@@ -25,8 +25,6 @@
 ### Apologize to:
 	All members who have made noteworthy contributions to this mod but are not listed above
 
-# Scientific Data Base
-
 # Note on content from JPL
 
 Some content in RSS-Origin, including texture maps and models, comes from JPL websites. That content is subject to the JPL Image Use Policy. The latest version of this policy can be found at https://www.jpl.nasa.gov/imagepolicy/. Also refer to https://space.jpl.nasa.gov/faq.html for clarity on how textures/models are covered.
