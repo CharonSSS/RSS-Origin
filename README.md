@@ -17,7 +17,7 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 # About the mod
 
-Like the title, **this mod needs [RealSolarSystem](https://forum.kerbalspaceprogram.com/topic/177216-*) to run properly**, and currently it includes the following parts:
+Like the title, **this mod needs "[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*)" to run properly**, and currently it includes the following parts:
 
 - **_RSS-Origin CelestialsPack_**, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
 
@@ -75,6 +75,11 @@ We strongly **do not recommend** installing all celestials at once. (except for 
 
 It is highly recommended **not to** install all celestials while you are ready to conduct interplanetary missions! We suggest retaining only the celestial(s) required for the mission and removing the remainings.
 
+**Specific operations for adding/removing celestial bodies:**
+	- Go to RSSOrigin in gamedata, search for celestial folders you need or don't need.
+ 	- Move the unwanted celestial folders out of GameData (! Please remember the location of the celestial folder before moving it out! If you forget, you can go to check "List of added celestials" for the location of the celestial folder)
+  	- If you need a certain celestial or celestial system, you can place it back in the corresponding position within GameData/RSSOrigin.
+
 ### Dependencies and recommendations
 
 [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) and all dependencies of it (of course)
@@ -100,10 +105,12 @@ Recommend:
 
 ### Download & installation instruction
 
-1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**
+1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
 2. Go to the release page of this repository, choose what celestial(s) you desired, download it.
 3. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**，you will find 2 folders, Principia and RSSOrigin. Put both of them into your Gamedata in the right way and overwrite the 2 cfgs of Principia. (if you are playing without Principia, just ignore the 2 cfgs)
-4. 
+4. Follow the step in Important note above.
+5. If you are playing **without** Principia, just launch the game and continue your saves.
+6. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
 
 ***
 # Credit
