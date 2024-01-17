@@ -1,0 +1,20 @@
+Ceres		16k Color, 16k NRM, 4k Height, oblate
+Vesta		16k Color, 16k NRM, 1k Height, oblate
+Io		8k Color
+Europa		16k Color
+Ganymede	16k Color
+Callisto		16k Color
+Mimas		8k Color, 8k NRM, 2k Height, oblate
+Enceladus	16k Color, 8k NRM, 8k Height, oblate
+Tethys		16k Color, 8k NRM, 4k Height, oblate
+Dione		16k Color, 8k NRM, 4k Height, oblate
+Rhea		16k Color, 8k NRM, 8k Height, oblate
+Iapetus		8k Color, 8k NRM, 4k Height, oblate
+Ariel		4k Color, 8k NRM, 4k Height, oblate
+Umbriel		4k Color, 4k NRM, 4k Height
+Titania		4k Color, 8k NRM, 8k Height
+Oberon		8k Color, 8k NRM, 8k Height
+Miranda		2k Color, 8k NRM, 1k Height, oblate
+Triton		16k Color, 16k NRM, 16k Height
+Pluto		16k Color, 8k NRM, 8k Height
+Charon		4k Color, 8k NRM, 8k Height
