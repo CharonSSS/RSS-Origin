@@ -17,7 +17,7 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 # About the mod
 
-Like the title, **this mod needs RSS to run properly**, and currently it includes the following parts:
+Like the title, **this mod needs [RealSolarSystem](https://forum.kerbalspaceprogram.com/topic/177216-112-real-solar-system) to run properly**, and currently it includes the following parts:
 
 **_RSS-Origin CelestialsPack_**, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
 
@@ -33,7 +33,7 @@ Like the title, **this mod needs RSS to run properly**, and currently it include
 
 **_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique featurescan only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get a good experience, especially conducting interplanetary missions.
 
-### --- Again, Principia is highly recommended to play with ---
+### --- Again, [Principia](https://github.com/mockingbirdnest/Principia) is highly recommended to play with ---
 
 ### And please be sure to read "Installation Guide" before installation!
 
