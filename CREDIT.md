@@ -27,16 +27,11 @@
 
 # Scientific Data Base
 
-Note on content from JPL
-------------------------
-Some content in Celestia, including texture maps and models, comes from JPL
-websites. That content is subject to the JPL Image Use Policy, a copy of which
-appears below (as captured on 2020-July-13). The latest version of this policy
-can be found at https://www.jpl.nasa.gov/imagepolicy/. Also refer to
-https://space.jpl.nasa.gov/faq.html for clarity on how textures/models are
-covered.
+# Note on content from JPL
 
-# JPL Image Use Policy
+Some content in RSS-Origin, including texture maps and models, comes from JPL websites. That content is subject to the JPL Image Use Policy. The latest version of this policy can be found at https://www.jpl.nasa.gov/imagepolicy/. Also refer to https://space.jpl.nasa.gov/faq.html for clarity on how textures/models are covered.
+
+## JPL Image Use Policy
 
 Unless otherwise noted, images and video on JPL public web sites (public sites ending with a jpl.nasa.gov address) may be used for any purpose without prior permission, subject to the special cases noted below. Publishers who wish to have authorization may print this page and retain it for their records; JPL does not issue image permissions on an image by image basis. By electing to download the material from this web site the user agrees:
 
