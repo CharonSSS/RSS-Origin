@@ -47,7 +47,7 @@ And here is a list about all the celestials added and planning to add soon.
 
 ### Don't forget to read "Installation Guide" before installation!
 
-![A]()
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/list%20of%20revamped%20objects%2016k.png)
 
 ### _RSS-Origin JSUNrings_
 
