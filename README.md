@@ -65,6 +65,8 @@ where?
 
 ## For _RSS-Origin CelestialsPack_
 
+**Since this is the major part of the mod, we will give you a detailed guide and note, and we hope that you can patiently read it through**
+
 ### Things you should know:
 
 Since this mod adds 141 extra celestial bodies to your game by default, along with 33 celestial bodies from RSS, for a total of 174, **this will cause your game to lag during acceleration and slow scene switching**. Given this situation, the folder structure of this mod is: each celestial or celestial system is placed in a separate folder, and you can add or remove celestial folders according to your own needs to ensure the smoothness of your gameplay.
@@ -94,9 +96,10 @@ Recommend:
 
 ### Download & installation instruction
 
-1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core_"**
+1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**
 2. Go to the release page of this repository, choose what celestial(s) you desired, download it.
-3. 
+3. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**，you will find 2 folders, Principia and RSSOrigin. Put both of them into your Gamedata in the right way and overwrite the 2 cfgs of Principia. (if you are playing without Principia, just ignore the 2 cfgs)
+4. 
 
 ***
 # Credit
