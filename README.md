@@ -31,7 +31,7 @@ Like the title, this mod currently including the following parts:
 
 **RSS-Origin CelestialsPack** is originally made for playing in Principia, now too. Many of its unique featurescan only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.**
 
-### - Again, Principia is highly recommended to play with -
+### --- Again, Principia is highly recommended to play with ---
 
 And here is a list about all the celestials added and planning to add soon.
 
