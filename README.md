@@ -51,9 +51,18 @@ And here is a list about all the celestials added and planning to add soon.
 
 - ### _RSS-Origin JSUNrings_
 
+**_RSS-Origin JSUNrings_** adds realistic rings to Jupiter, Saturn, Uranus and Neptune:
+- Jupiter: Halo ring, Main ring, Amalthea gossamer ring, Thebe gossamer ring.
+- Saturn: Main rings (A,B,C,D,F), G ring, E ring.
+- Uranus: Narrow main rings (6, 5, 4, α, β, η, γ, δ, ε), Dusty rings (1986U2R/ζ, λ), Outer rings (ν, μ).
+- Neptune: Galle ring, Le Verrier ring, Lassell ring, Adams ring.
+It should be incompatible with other ring mods or visual mods that add rings.
+
+### And again, don't forget to read "[Installation Guide](README.md#installation-guide)" before installation!
+
 - ### _RSS-Origin GalaxyTex_
 
-to be continued...
+**_RSS-Origin GalaxyTex_** replaces your skybox with a fairly good Milky Way background in correct orientation. 4 resolutions are provided (8k, 16k, 32k, 64k). Source [https://svs.gsfc.nasa.gov/4851](https://svs.gsfc.nasa.gov/4851).
 
 - ## Screenshots:
 
@@ -105,6 +114,9 @@ Recommend:
 - [Parallax](https://forum.kerbalspaceprogram.com/index.php?/topic/197024-*)
 - [TUFX](https://forum.kerbalspaceprogram.com/index.php?/topic/192212-*)
 
+Incompatibles:
+Seriously, I didn't expect anything incompatible. If there has to be an answer, other expansion packs for RSS are incompatible.
+
 ### Download & installation instruction
 
 1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
@@ -114,6 +126,27 @@ Recommend:
 5. Follow the [step in "Important note"](tree/main#-important-note) above.
 6. If you are playing **without** Principia, just launch the game and continue your saves.
 7. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
+
+### Hardward requirements
+If you can run RSS (or RSS+Principia) on your device, you can run this mod. But notice, more celestials added to your game means better device you should have.
+
+## For _RSS-Origin RSSTexture&TopoRevamp_
+
+**This mod only replaces textures and cfgs, so [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) is the only dependency.**
+
+Incompatibles:
+This mod may be incompatible with RSS-Reborn. If you want to use my mod and you are using RSS-Reborn at the same time, please contact me or @ballisticfox in discord first. If you have the ability to correctly merge and modify mods, you can go for it and do it yourself.
+
+### Download & installation instruction
+
+1. Go to the release page of this repository, download **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**.
+2. Go to the release page of this repository, choose a resolution you desired, download it.
+3. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**，put all the files into your Gamedata in the right way and overwrite all.
+4. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Textures(xx)k.zip_"**，put all the files into your Gamedata in the right way and overwrite all.
+5. Launch your game.
+
+### Hardward requirements
+It is the same as RSS Textures.
 
 ***
 # Credit
