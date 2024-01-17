@@ -81,6 +81,9 @@ It is highly recommended **not to** install all celestials while you are ready t
 
 (In case you are new to KSP, dependencies of RSS are: [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*), [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-*), [RSS-Textures](https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*), [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*))
 
+### Important note：
+#### Check if you have the mod "KSPCommunityFixes" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings. If you don't follow this step, you "may" experience a extremely laggy gameplay once you are inflight.
+
 Highly recommend: 
 - [Principia](https://forum.kerbalspaceprogram.com/topic/162200-*)
 - [Realism Overhaul](http://forum.kerbalspaceprogram.com/index.php?/topic/155700-122-realism-overhaul-v1150-05262017/)
