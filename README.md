@@ -1,4 +1,4 @@
-# (WIP) RSS-Origin - Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS 
+# (WIP) _RSS-Origin - Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS_
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/insignia%20by%20Alice%20Christina.jpg)
 ***
@@ -29,7 +29,9 @@ Like the title, this mod currently including the following parts:
 
 # More details about the mod (points for attention, to-dos, plans, screenshots)
 
-RSS-Origin CelestialsPack is originally made for playing in Principia, now too. Many of its unique featurescan only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.**
+**RSS-Origin CelestialsPack** is originally made for playing in Principia, now too. Many of its unique featurescan only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.**
+
+#### Again, Principia is highly recommended to play with ####
 
 And here is a list about all the celestials added and planning to add soon.
 
