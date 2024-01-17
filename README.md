@@ -3,27 +3,27 @@
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/GameData-RSSOrigin-CelestialsPack/RSSOrigin/_utilities/assets/insignia%20by%20Alice%20Christina.jpg)
 ***
 # Note
-This mod is still work-in-progress. The Github page is still under construction.
+This mod is still **work-in-progress**. The Github page is still **under construction**.
 
-Currently the mod is in closed-beta, many features are unfinished.
+Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 **If you want to play it right now, just clone and download ZIP. But remember, this is still unfinished right now, me and my team are devoting every effort to improve it.**
 
 **If you want to play and test it, or report bugs of it, or you have some ideas about my mod, I'm applying for a discord channel in Kopernicus server, once I've got a channel you can join the discussion.**
 
-# !!!Please be sure to read "Installation Guide" before installation!!!
+## !!!Please be sure to read "Installation Guide" before installation!!!
 
 # About the mod
 
 Like the title, this mod currently including the following parts:
 
-RSS-Origin CelestialsPack, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
+**RSS-Origin CelestialsPack**, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
 
-(textures awaiting for upload) RSS-Origin RSSTexture&ShapeRevamp, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and shapes, since some of the RSS textures are unrealistic in color and shape and other stuff.
+(textures awaiting for upload) **RSS-Origin RSSTexture&ShapeRevamp**, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and shapes, since some of the RSS textures are unrealistic in color and shape and other stuff.
 
-RSS-Origin JSUNrings, which adds accurate and realistic rings to the 4 gas giants.
+**RSS-Origin JSUNrings**, which adds accurate and realistic rings to the 4 gas giants.
 
-(textures awaiting for upload) RSS-Origin GalaxyTex, which replaces your skybox with a high-quality Milky Way background.
+(textures awaiting for upload) **RSS-Origin GalaxyTex**, which replaces your skybox with a high-quality Milky Way background.
 
 # More details about the mod (points for attention, to-dos, plans, screenshots)
 
