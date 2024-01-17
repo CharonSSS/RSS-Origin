@@ -21,7 +21,7 @@ Like the title, this mod currently including the following parts:
 
 **RSS-Origin CelestialsPack**, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
 
-(textures awaiting for upload) **RSS-Origin RSSTexture&ShapeRevamp**, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and shapes, since some of the RSS textures are unrealistic in color and shape and other stuff.
+(textures awaiting for upload) **RSS-Origin RSSTexture&TopoRevamp**, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
 
 **RSS-Origin JSUNrings**, which adds accurate and realistic rings to the 4 gas giants.
 
