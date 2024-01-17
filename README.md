@@ -76,9 +76,11 @@ We strongly **do not recommend** installing all celestials at once. (except for 
 It is highly recommended **not to** install all celestials while you are ready to conduct interplanetary missions! We suggest retaining only the celestial(s) required for the mission and removing the remainings.
 
 **Specific operations for adding/removing celestial bodies:**
-	Go to RSSOrigin in gamedata, search for celestial folders you need or don't need.
- 	Move the unwanted celestial folders out of GameData (! Please remember the location of the celestial folder before moving it out! If you forget, you can go to check "[List of added celestials](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)" for the location of the celestial folder)
-  	If you need a certain celestial or celestial system, you can place it back in the corresponding position within GameData/RSSOrigin.
+Go to RSSOrigin in gamedata, search for celestial folders you need or don't need.
+Move the unwanted celestial folders out of GameData. (! Please remember the location of the celestial folder before moving it out! If you forget, you can go to check "[List of added celestials](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)" for the location of the celestial folder)
+If you need a certain celestial or celestial system, you can place it back in the corresponding position within GameData/RSSOrigin.
+
+If you want to install small moons in the ring of gas/ice giants and also want to add rings to gas/ice giants, it is recommended to use "**_RSS-Origin JSUNrings_**". This ring pack is matched with RSS-Origin, and the positions of the small moons and rings are adjusted according to reality. If this ring pack is not used, the small moons may drift elsewhere, which is very unreasonable.
 
 ### Dependencies and recommendations
 
