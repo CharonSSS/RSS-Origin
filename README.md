@@ -1,5 +1,7 @@
 # (WIP) RSS-Origin - Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS 
 
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/GameData-RSSOrigin-CelestialsPack/RSSOrigin/_utilities/assets/insignia%20by%20Alice%20Christina.jpg)
+
 ## Note
 This mod is still work-in-progress. The Github page is still under construction.
 
