@@ -42,7 +42,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 		3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
 
 ### Section 3 – License Conditions.
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+	Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 	a. Attribution .
 		1. If You Share the Licensed Material (including in modified form), You must:
 			A. retain the following if it is supplied by the Licensor with the Licensed Material:
@@ -62,11 +62,11 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 		3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
 
 ### Section 4 – Sui Generis Database Rights.
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+	Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 	a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
 	b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b) ; and
 	c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+	For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
 ### Section 5 – Disclaimer of Warranties and Limitation of Liability.
 	a. Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
