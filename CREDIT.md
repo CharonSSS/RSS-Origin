@@ -44,3 +44,21 @@ Unless otherwise noted, images and video on JPL public web sites (public sites e
 	If an image includes an identifiable person, using the image for commercial purposes may infringe that person's right of privacy or publicity, and permission should be obtained from the person. NASA and JPL generally do not permit likenesses of current employees to appear on commercial products. For more information, consult the NASA and JPL points of contact listed above.
 	JPL/Caltech contractors and vendors who wish to use JPL images in advertising or public relation materials should direct requests to the Institutional Communications Office, email instcomm@jpl.nasa.gov.
 	Some image and video materials on JPL public web sites are owned by organizations other than JPL or NASA. These owners have agreed to make their images and video available for journalistic, educational and personal uses, but restrictions are placed on commercial uses. To obtain permission for commercial use, contact the copyright owner listed in each image caption. Ownership of images and video by parties other than JPL and NASA is noted in the caption material with each image.
+
+# Scientific Data Base
+
+All of the orbital data are from [NASA/JPL's Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/).
+
+Most of the physical data are from the corresponding page on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). Some of the physical data are from websites or papers that I googled.
+
+# Textures
+
+Most of the visited objects' textures are directly or indirectly from NASA/JPL under the policy above. Most of the unvisited objects' textures are customly exported using SpaceEngine Pro, allowed to use and modify under the license of SpaceEngine Pro. Some of the textures are from Celestia Origin, allowed to use and modify under the license of Celestia Origin. Some of the dwarf planets' textures are from [supersean08@www.deviantart.com](https://www.deviantart.com/supersean08) and [JCP-JohnCarlo@www.deviantart.com](https://www.deviantart.com/jcp-johncarlo), allowed to use and modify under free license.
+
+Most of the textures in RSS-Origin RSSTexture%TopoRevamp are from SpaceEngine's DLCs, allowed to use and modify under the license of SpaceEngine Pro. Some of it credit to [Snowfall@www.deviantart.com](https://www.deviantart.com/astra-planetshine), allowed to use and modify under Snowfall's personal license. Jupiter's color and normal map is derived from RSS-Reborn, used with permission of @ballisticfox.
+
+Ring textures are from SpaceEngine, allowed to use and modify under the license of SpaceEngine Pro. Some of it credit to [Snowfall@www.deviantart.com](https://www.deviantart.com/astra-planetshine), allowed to use and modify under Snowfall's personal license.
+
+[Milky Way starmaps](https://svs.gsfc.nasa.gov/4851) are from NASA/JPL under the policy above.
+
+
