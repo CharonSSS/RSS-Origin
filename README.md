@@ -7,9 +7,9 @@ This mod is still work-in-progress. The Github page is still under construction.
 
 Currently the mod is in closed-beta, many features are unfinished.
 
-If you want to play it right now, just clone and download ZIP. But remenber, this is still unfinished right now, me and my team are devoting every effort to improve it.
+**If you want to play it right now, just clone and download ZIP. But remenber, this is still unfinished right now, me and my team are devoting every effort to improve it.**
 
-If you want to play and test it, or report bugs of it, or you have some ideas about my mod, I'm applying for a discord channel in Kopernicus server, once I've got a channel you can join the discussion.
+**If you want to play and test it, or report bugs of it, or you have some ideas about my mod, I'm applying for a discord channel in Kopernicus server, once I've got a channel you can join the discussion.**
 
 ## About the mod
 
