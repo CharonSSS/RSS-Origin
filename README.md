@@ -19,17 +19,17 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 Like the title, **this mod needs [RealSolarSystem](https://forum.kerbalspaceprogram.com/topic/177216-*) to run properly**, and currently it includes the following parts:
 
-**_RSS-Origin CelestialsPack_**, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
+- **_RSS-Origin CelestialsPack_**, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
 
-(textures awaiting for upload) **_RSS-Origin RSSTexture&TopoRevamp_**, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
+- **_RSS-Origin RSSTexture&TopoRevamp_** (textures awaiting for upload), which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
 
-**_RSS-Origin JSUNrings_**, which adds accurate and realistic rings to the 4 gas giants.
+- **_RSS-Origin JSUNrings_**, which adds accurate and realistic rings to the 4 gas giants.
 
-(textures awaiting for upload) **_RSS-Origin GalaxyTex_**, which replaces your skybox with a high-quality Milky Way background.
+- **_RSS-Origin GalaxyTex_** (textures awaiting for upload), which replaces your skybox with a high-quality Milky Way background.
 
 # More details about the mod (points for attention, to-dos, plans, screenshots)
 
-### _RSS-Origin CelestialsPack_
+- ### _RSS-Origin CelestialsPack_
 
 **_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique features can only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get a good experience, especially conducting interplanetary missions.
 
@@ -41,7 +41,7 @@ And here is a list about all the celestials added and planning to add soon.
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)
 
-### _RSS-Origin RSSTexture&TopoRevamp_
+- ### _RSS-Origin RSSTexture&TopoRevamp_
 
 **_RSS-Origin RSSTexture&TopoRevamp_** is an overhaul to some of the RSS celestials. I've done a widely search for information and figure out some of the RSS celestials are using wrong surface textures and topograhy maps, so this mod's purpose is to fix those issues. Different texture resolutions are provided, 4k, 8k and 16k for now. And here is a list for all the objects been revamped. (only maximum resolution listed)
 
@@ -49,13 +49,13 @@ And here is a list about all the celestials added and planning to add soon.
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/list%20of%20revamped%20objects%2016k.png)
 
-### _RSS-Origin JSUNrings_
+- ### _RSS-Origin JSUNrings_
 
-### _RSS-Origin GalaxyTex_
+- ### _RSS-Origin GalaxyTex_
 
 to be continued...
 
-## Screenshots:
+- ## Screenshots:
 
 where?
 
