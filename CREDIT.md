@@ -55,10 +55,17 @@ Most of the physical data are from the corresponding page on [Wikipedia](https:/
 
 Most of the visited objects' textures are directly or indirectly from NASA/JPL under the policy above. Most of the unvisited objects' textures are customly exported using SpaceEngine Pro, allowed to use and modify under the license of SpaceEngine Pro. Some of the textures are from Celestia Origin, allowed to use and modify under the license of Celestia Origin. Some of the dwarf planets' textures are from [supersean08@www.deviantart.com](https://www.deviantart.com/supersean08) and [JCP-JohnCarlo@www.deviantart.com](https://www.deviantart.com/jcp-johncarlo), allowed to use and modify under free license.
 
-Most of the textures in RSS-Origin RSSTexture%TopoRevamp are from SpaceEngine's DLCs, allowed to use and modify under the license of SpaceEngine Pro. Some of it credit to [Snowfall@www.deviantart.com](https://www.deviantart.com/astra-planetshine), allowed to use and modify under Snowfall's personal license. Jupiter's color and normal map is derived from RSS-Reborn, used with permission of @ballisticfox.
+Most of the textures in RSS-Origin RSSTexture%TopoRevamp are from SpaceEngine's DLCs, allowed to use and modify under the license of SpaceEngine Pro. Some of it credit to [Astra-Planetshine@www.deviantart.com](https://www.deviantart.com/astra-planetshine), allowed to use and modify under Astra-Planetshine's personal license. Jupiter's color and normal map is derived from RSS-Reborn, used with permission of @ballisticfox.
 
-Ring textures are from SpaceEngine, allowed to use and modify under the license of SpaceEngine Pro. Some of it credit to [Snowfall@www.deviantart.com](https://www.deviantart.com/astra-planetshine), allowed to use and modify under Snowfall's personal license.
+Ring textures are from SpaceEngine, allowed to use and modify under the license of SpaceEngine Pro. Some of it credit to [Astra-Planetshine@www.deviantart.com](https://www.deviantart.com/astra-planetshine), allowed to use and modify under Astra-Planetshine's personal license.
 
 [Milky Way starmaps](https://svs.gsfc.nasa.gov/4851) are from NASA/JPL under the policy above.
 
+Celestial icons are from https://commons.wikimedia.org/wiki/Category:Astronomical_symbols.
+
+# 3D models
+
+Most of the visited objects' models are from [3D Asteroid Catalogue](https://3d-asteroids.space/), in which the models are mainly from NASA/JPL or related websites.
+
+Some of the models are from [tato_713@www.printables.com](https://www.printables.com/@tato), allowed to use and modify under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 
