@@ -1,8 +1,8 @@
 # (WIP) RSS-Origin - Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS 
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/GameData-RSSOrigin-CelestialsPack/RSSOrigin/_utilities/assets/insignia%20by%20Alice%20Christina.jpg)
-
-## Note
+***
+# Note
 This mod is still work-in-progress. The Github page is still under construction.
 
 Currently the mod is in closed-beta, many features are unfinished.
@@ -11,7 +11,7 @@ Currently the mod is in closed-beta, many features are unfinished.
 
 **If you want to play and test it, or report bugs of it, or you have some ideas about my mod, I'm applying for a discord channel in Kopernicus server, once I've got a channel you can join the discussion.**
 
-## About the mod
+# About the mod
 
 Like the title, this mod currently including the following parts:
 
@@ -23,7 +23,7 @@ RSS-Origin JSUNrings, which adds accurate and realistic rings to the 4 gas giant
 
 (waiting for upload) RSS-Origin GalaxyTex, which replaces your skybox with a high-quality Milky Way background.
 
-## More details about the mod (points for attention, to-dos, plans, screenshots)
+# More details about the mod (points for attention, to-dos, plans, screenshots)
 
 RSS-Origin CelestialsPack is originally made for playing in Principia, now too. Many of its unique featurescan only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.**
 
@@ -39,9 +39,10 @@ to be continued...
 
 where?
 
-## Credit
+***
+# Credit
 
-### Author: **Charon_S (me)**
+## Author: **Charon_S (me)**
 
 ### Main Contributors: (Ranked in alphabetical order without distinction of the extent of contribution)
 	himīśā
