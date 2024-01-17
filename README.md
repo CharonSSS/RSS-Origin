@@ -98,6 +98,14 @@ If you want to install small moons in the ring of gas/ice giants and also want t
 
 **Statement: The orbital data, physical data, appearance, etc. of celestial bodies are not guaranteed to be completely consistent with reality.**
 
+**There're also 6 issues of this mod**
+- 1. Objects with smaller radii (<400m) may have rendering bugs. When viewed from a distance, the overall display will be black. When approaching, the texture will flicker, but it does not affect landing. Once approached, it will return to normal.
+- 2. Objects that are too small may not be visible (or appear black) on the tracking station and map view even if the camera is pulled closest, which is the scaling limitation of KSP.
+- 3. After installing a large number of celestials with Principia, when the Plotting Frame Selection interface is fully expanded, the game will become extremely laggy. Reducing the number of expanded celestials or closing the interface can solve this problem.
+- 4. After installing a large number of celestials without Principia, when you go to map view, the game will become laggy due to too much orbit lines rendered.
+- 5. The limitation of Principia results in some moons that are tidally locked with planets being unable to effectively maintain tidal locking. After a period of timewarp, the moons will deviate from the correct orientation, which cannot be solved at present.
+- 6. There may be some bugs for unknown reasons when attempting to transfer between some small asteroids and their moons (passing through SOI). Switching to the tracking station and then switch back to the vehicle can solve this problem.
+
 ### Dependencies and recommendations
 
 [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) and all dependencies of it (of course)
