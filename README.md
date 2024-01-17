@@ -31,7 +31,7 @@ Like the title, **this mod needs [RealSolarSystem](https://forum.kerbalspaceprog
 
 ### _RSS-Origin CelestialsPack_
 
-**_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique featurescan only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get a good experience, especially conducting interplanetary missions.
+**_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique features can only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get a good experience, especially conducting interplanetary missions.
 
 ### --- Again, [Principia](https://github.com/mockingbirdnest/Principia) is highly recommended to play with ---
 
@@ -90,3 +90,5 @@ where?
 
 ### Apologize to:
 	All members who have made noteworthy contributions to this mod but are not listed above
+
+For more information about credits, contributions and acknowledgements, see CREDIT.md
