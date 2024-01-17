@@ -33,7 +33,7 @@ Like the title, **this mod is basically a DLC for "[Real Solar System](https://f
 
 **_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique features can only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get a good experience, especially conducting interplanetary missions.
 
-Me and my team are doing our best to ensure that every celestial body visited by spacecraft uses models and textures that are as close to reality as possible in the game, celestial bodies that have not been visited by spacecraft use their models and spectra based on ground observations as much as possible.
+Me and my team are doing our best to ensure that every celestial body visited by spacecraft uses models and textures that are as close to reality as possible in the game, celestial bodies that have not been visited by spacecraft use their models and spectra based on ground observations as much as possible. The physical characteristics of those completely unknown objects are reasonable artistic creations based solely on existing data.
 
 ### --- Again, [Principia](https://forum.kerbalspaceprogram.com/topic/162200-*) is highly recommended to play with ---
 
