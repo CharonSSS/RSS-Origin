@@ -52,13 +52,14 @@ where?
 	Alice Christina
 	ballisticfox
 	caps lock
-	Kerbinator
+	Kerbinator Fras
 	猫猫是我心头好
 	R-T-B
 	游荡云雀
 	YWMKerman
 
 ### Acknowledgement：
+	All members mentioned above
 	All members of closed-beta team
 	All members who have provided suggestions and comments on this mod
 
