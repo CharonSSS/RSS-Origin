@@ -19,7 +19,7 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 Like the title, **this mod needs "[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*)" to run properly**, and currently it includes the following parts:
 
-- **_RSS-Origin CelestialsPack_**, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
+- **_RSS-Origin CelestialsPack_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
 
 - **_RSS-Origin RSSTexture&TopoRevamp_** (textures awaiting for upload), which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
 
