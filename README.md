@@ -25,7 +25,7 @@ RSS-Origin JSUNrings, which adds accurate and realistic rings to the 4 gas giant
 
 ## More details about the mod (points for attention, to-dos, plans, screenshots)
 
-RSS-Origin CelestialsPack is originally made for playing in Principia, now too. Many of its unique feature can only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.**
+RSS-Origin CelestialsPack is originally made for playing in Principia, now too. Many of its unique featurescan only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.**
 
 And here is a list about all the celestials added and planning to add soon.
 
@@ -41,7 +41,7 @@ where?
 
 ## Credit
 
-### Author: Charon_S (me)
+### Author: **Charon_S (me)**
 
 ### Main Contributors: (Ranked in alphabetical order without distinction of the extent of contribution)
 	himīśā
