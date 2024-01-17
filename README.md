@@ -27,6 +27,10 @@ RSS-Origin GalaxyTex, which replaces your skybox with a high-quality Milky Way b
 
 RSS-Origin Celestials Pack is originally made for playing in Principia, now too. Many of its unique feature can only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.**
 
+And here is a list about all the celestials added and planning to add soon.
+
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/GameData-RSSOrigin-CelestialsPack/RSSOrigin/_utilities/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)
+
 time to sleep. it's too late
 
 to be continued...
