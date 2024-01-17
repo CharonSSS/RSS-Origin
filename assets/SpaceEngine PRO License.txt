@@ -1,0 +1,121 @@
+Version 1.8, May 2022
+
+
+1. Preamble
+
+1.1	This Agreement (the “Agreement”, the “License”) governs the relationship between you, a Business Entity (hereinafter: Licensee), and Cosmographic Software LLC (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using SpaceEngine PRO (hereinafter: The Software) created and owned by Licensor, as detailed herein.
+
+
+2. Intellectual Property
+
+2.1	The Software and its associated assets are licensed, not sold. Licensor retains ownership of the Software including all intellectual property rights therein. This includes, but is not limited to, source code, shaders, textures, and art assets. The Software is protected by copyright laws and international treaties. Licensor reserves all rights in the Software not expressly granted to Licensee in this Agreement. Licensee will not delete or in any manner alter any Licensor’s or third-party copyright, trademark or other proprietary rights notices or markings appearing on or in the Software. Licensor hereby warrants that The Software does not violate or infringe any 3rd party claims in regards to intellectual property, patents and/or trademarks and that to the best of its knowledge no legal action has been taken against it for any infringement or violation of any 3rd party intellectual property rights.
+
+
+3. License Grant
+
+3.1	Licensor hereby grants Licensee a Personal, Perpetual, Non-assignable & Non-transferable, Commercial, Royalty free, Non-Exclusive license, all in accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
+
+3.1.1 Limited: Licensee may use Software for the purpose of:
+
+3.1.1.a	Running Software publicly;
+
+3.1.1.b	Publishing Software’s output (screenshots, video and exported textures and models, but not music/soundtrack) to Licensee and 3rd Parties;
+
+3.1.1.c	Distributing verbatim and derivative copies of Software’s output (screenshots, video and exported textures and models, but not music/soundtrack);
+
+3.1.1.d	Using copies of Software’s output (screenshots, video and exported textures and models, but not music/soundtrack) as a part of a larger work;
+
+3.1.1.e	Modifying Software's configuration and data files, but not Software's executable, to suit Licensee’s needs and specifications;
+
+3.1.1.f	 Create and make publicly available so-called “Let´s Play" videos or "livestream" presentations containing images and video and sounds of the Software through social media channels such as Twitch.tv and Youtube.com, whether monetized or not, with donations such as "Superchat"s not being considered a form of monetization for the purpose of this Agreement. In the context of any "Let´s Play" video or "livestream", the following copyright notice must be displayed prominently in the video description or credits section: “Produced in part with SpaceEngine PRO © Cosmographic Software LLC.”
+
+3.2	With respect to the clauses and subclauses within 3.1.1, Licensee acknowledges that the assets within the Software, including graphical assets and their derivatives, remain the original work of the Licensor, as outlined in 2.1, and that ownership of these assets is not provided to Licensee.
+
+3.2.1	In such a case that Licensee uses, distributes, or publishes Software's output as detailed in 3.1.1.b through 3.1.1.d above, Licensee agrees to provide credit to "SpaceEngine PRO © Cosmographic Software LLC" in such a way as would be considered reasonable for the industry and purpose associated with its use. An example of such credit might include, but is not limited to, the inclusion of "SpaceEngine PRO © Cosmographic Software LLC" in the credits or acknowledgements section typically found at the beginning or end of a media production, or in captions included below an image to the effect of "Produced in part with SpaceEngine PRO", or some other form of acknowledgement that the Software was used in the creation of any such media. Licensee agrees that publishing or using Software's output or its derivatives for commercial purposes without acknowledgement explicitly breaches this agreement, and that any and all rights granted to Licensee under the terms of this License will cease immediately upon any such breach.
+
+3.3	Perpetual: This license is granted perpetually, as long as Licensee does not materially breach it in any way.
+
+3.4	Non Assignable & Non-Transferable: Licensee may not assign or transfer his rights and duties under this license.
+
+3.5	Royalty Free: Licensee may use Software for any purpose, including paid-services, without any royalties.
+
+3.5.1	In such a case that licensee would otherwise reasonably provide credit to a creator (such as in film credits, or in the description section of a YouTube video), Licensee agrees to credit Licensor for use of their program, its assets, and their derivatives, by including acknowledgement in any such credits to the effect of "Produced in part with SpaceEngine PRO © Cosmographic Software LLC".
+
+3.6	One User per License: Commercial and government Licensee must purchase a license for each individual using SpaceEngine PRO. If Licensee purchase licenses for educational purpose, Licensee shall purchase a license for each computer on which the Software is to be used.
+
+
+4. Rights for "Re-Use"
+
+4.1	Licensor grants and Licensee receives the right to re-use images, videos, and other such media created in the Software for the purposes of education, virtual exhibits, film production, podcasts, and web content, provided that "SpaceEngine PRO" is credited in some way which reasonably indicates its use in production, either by a caption on the image which might reasonably considered to be visible when included, or in such a manner as is typical for the purpose, such as inclusion in a credits or acknowledgements section.
+
+4.2 	This grant of rights for re-use does not extend to use of music or soundtrack assets.
+
+
+5. Term & Termination
+
+5.1	The Term of this license shall be until terminated. Licensor may terminate this Agreement, including Licensee’s license, in the case where Licensee:
+
+5.1.1	Became insolvent or otherwise entered into any liquidation process; or
+
+5.1.2	Exported The Software to any jurisdiction where licensor may not enforce his rights under this agreements in; or
+
+5.1.3	Was in breach of any of this license terms and conditions and such breach was not cured, immediately upon notification; or
+
+5.1.4	Was in breach of any of the terms of clause 2 to this license; or
+
+5.1.5	Otherwise entered into any arrangement which caused Licensor to be unable to enforce his rights under this License.
+
+
+6. Upgrades, Updates and Fixes
+
+6.1	Licensor may provide Licensee, from time to time, with Upgrades, Updates or Fixes, as detailed herein and according to his sole discretion. Licensee hereby warrants keeping The Software up-to-date and installing all relevant updates and fixes, and may, at his sole discretion, purchase upgrades, according to the rates set by Licensor. Licensor shall provide any Update or Fix free of charge; however, nothing in this Agreement shall require Licensor to provide Upgrades, Updates or Fixes.
+
+6.2.	For the purpose of this license, an Upgrade shall be a material amendment in The Software, which contains new features and or major performance improvements and shall be marked as a new version number. For example, should Licensee purchase The Software under version 1.X.X.X, an upgrade shall commence under number 2.0.0.0.
+
+6.3.	For the purpose of this license, an update shall be a minor amendment in The Software, which may contain new features or minor improvements and shall be marked as a new sub-version number. For example, should Licensee purchase The Software under version 1.1.X.X, an update shall commence under number 1.2.0.0.
+
+6.4.	For the purpose of this License, a "Fix" shall be a minor amendment in The Software, intended to remove bugs or alter minor features which impair the Software's functionality. A fix shall be marked as a new sub-sub-version number. For example, should Licensee purchase Software under version 1.1.1.X, fix shall commence under number 1.1.2.X.
+
+
+7. Amendment and Modification of Agreement
+
+7.1	The Licensor may amend, modify, or update the terms of this License at any time by providing the User with written notice. Continued use of the Software is considered to be acceptance of any such amendment by the Licensee. For the avoidance of doubt, written notice can be in the form of a new or modified License updated on Steam or on Licensor's website.
+
+7.2	Licensor reserves the exclusive right to make modifications to certain parts of this License on an individual and case-by-case, such as exempting individual entities from individual clauses or sub-clauses on a case-by-case basis. Such modifications will be granted explicitly in writing by Licensor, and do not constitute in any way an additional waiver or grant any additional rights, or otherwise serve as an invalidation or waiver of any other part of this License except as expressly dictated in writing by Licensor to the Licensee in such case.
+
+7.3	Any modification of the Agreement as per clause 7 is understood to be effective immediately.
+
+
+8. No Warranty
+
+8.1	The Software is provided by the Author "as is". The Author disclaims any responsibility for harm resulting from the Software or any software or content downloaded using the Software, whether or not the Author approved such software or content. The Author expressly disclaims all warranties and conditions, expressed or implied, including any implied warranties and conditions of merchantability, fitness for a particular purpose, and non-infringement, and any warranties and conditions arising out of course of dealing or usage of trade regarding the Software or any software or content you download using the Software. No advice or information, whether oral or written, obtained from the Author or elsewhere will create any warranty or condition not expressly stated in this agreement. Some jurisdictions do not allow certain limitations on implied warranties, so the above limitation may not apply to you to its full extent.
+
+
+9. Limitation of Liability
+
+9.1	To the extent permitted under Law, The Software is provided under an "as is" basis. Licensor shall never, and without any limit, be liable for any damage, cost, expense or any other payment incurred by Licensee as a result of Software’s actions, failure, bugs and/or any other interaction between The Software and Licensee’s end-equipment, computers, other software or any 3rd party, end-equipment, computer or services. Moreover, Licensor shall never be liable for any defect in source code written by Licensee when relying on The Software or using The Software’s source code.
+
+
+10. Indemnification
+
+10.1	Licensee hereby warrants, defends, indemnifies, and holds harmless Licensor, its officers, and any other affiliates thereof, from and against any and all suits, claims, damages, losses, costs, investigations, liabilities, fines, penalties, judgements, settlements, expenses (including attorneys' fees), and judgements that directly or indirectly arise out of or in connection with your use of the Software, whether occurring heretofore or hereafter, including any violation of any laws, rules, regulations, statutes, codes ordinances or orders of any government, governmental, or quasi-governmental organization or authority in connection with your use of the Software. The Licensor and associates retain the exclusive right to settle, compromise, and pay any Claims and Losses. You will not settle any Claims and Losses without, for each instance, the prior written consent of an officer of Cosmographic Software LLC. Licensor reserves the right to notify Licensee in case of any such legal action, and to request Licensee's consent prior to any settlement in relation to suit or claim.
+
+
+11. Governing Law & Jurisdiction
+
+11.1	This Agreement is governed by law of the United States of America, to the exclusion of any other legislation. Licensee hereby agrees not to initiate class-action lawsuits against Licensor in relation to this license and to compensate Licensor for any legal fees, cost or attorney fees should any claim brought by Licensee against Licensor be denied, in part or in full.
+
+
+12.	Titles/Heading
+
+12.1	Headings and titles are inserted for convenience only and are not to be considered when interpreting this License.
+
+
+13.	Severability
+
+13.1	In the event that any party of the provisions of this License are held to be invalid or unenforceable in whole or in part, all other provisions will nevertheless continue to be valid and enforceable with the invalid or unenforceable parts severed from the remainder of this License.
+
+
+14.	Waiver
+
+14.1	The waiver by either Party of a breach, default, delay or omission of any of the provisions of this License will not be construed as a waiver of any subsequent breach of the same provisions, or as a waiver of any other provision in this License.
