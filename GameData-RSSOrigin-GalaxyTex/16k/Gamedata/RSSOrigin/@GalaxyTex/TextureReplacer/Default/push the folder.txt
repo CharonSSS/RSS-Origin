@@ -1,1 +1,1 @@
-push the folder
+push the folder, textures are in release
