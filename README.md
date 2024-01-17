@@ -65,6 +65,12 @@ where?
 
 ## For _RSS-Origin CelestialsPack_
 
+Since this mod adds 141 extra celestial bodies to your game by default, along with 33 celestial bodies from RSS, for a total of 174, **this will cause your game to lag during acceleration and slow scene switching**. Given this situation, the folder structure of this mod is: each celestial or celestial system is placed in a separate folder, and you can add or remove celestial folders according to your own needs to ensure the smoothness of your gameplay.
+
+We strongly **do not recommend** installing all celestials at once. (except for viewing scenery or searching for your target(s))
+
+It is highly recommended **not to** install all celestials while you are ready to conduct interplanetary missions! We suggest retaining only the celestial(s) required for the mission and removing the remainings.
+
 ***
 # Credit
 
