@@ -17,7 +17,7 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 # About the mod
 
-Like the title, **this mod is a DLC of "[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*)"**, and currently it includes the following parts:
+Like the title, **this mod is basically a DLC for "[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*)"**, and currently it includes the following parts:
 
 - **_RSS-Origin CelestialsPack_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the solar system, currently 141 in total. (dozens more in the future)
 
