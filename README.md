@@ -17,7 +17,7 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 # About the mod
 
-Like the title, **this mod needs [RealSolarSystem](https://forum.kerbalspaceprogram.com/topic/177216-112-real-solar-system) to run properly**, and currently it includes the following parts:
+Like the title, **this mod needs [RealSolarSystem](https://forum.kerbalspaceprogram.com/topic/177216-*) to run properly**, and currently it includes the following parts:
 
 **_RSS-Origin CelestialsPack_**, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the Solar System, currently 141 in total. (dozens more in the future)
 
@@ -75,8 +75,21 @@ It is highly recommended **not to** install all celestials while you are ready t
 
 ### Dependencies and recommendations
 
-[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-112-real-solar-system) and all dependencies of it (of course)
-(In case you are new to KSP, dependencies of RSS are: [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*), Kopernicus, RSS-Textures, KSP Community Fixes)
+[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) and all dependencies of it (of course)
+(In case you are new to KSP, dependencies of RSS are: [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*), [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-*), [RSS-Textures](https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*), [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*))
+
+Highly recommend: 
+-[Principia](https://forum.kerbalspaceprogram.com/topic/162200-*)
+-[Realism Overhaul](http://forum.kerbalspaceprogram.com/index.php?/topic/155700-122-realism-overhaul-v1150-05262017/)
+-[Realistic Progression One (RP-1)](https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*)
+-[KSC Switcher](https://forum.kerbalspaceprogram.com/index.php?/topic/106206-*)
+-[RSS DateTime Formatter](http://forum.kerbalspaceprogram.com/index.php?/topic/139335-*)
+
+Recommend:
+-[Environmental Visual Enhancements](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-111x-eve-redux-performance-enhanced-eve-build-v11121-31012021/)
+-[Scatterer](http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip-scatterer-atmospheric-scattering)
+-[Parallax](https://forum.kerbalspaceprogram.com/index.php?/topic/197024-*)
+-[TUFX](https://forum.kerbalspaceprogram.com/index.php?/topic/192212-*)
 
 ### Download & installation instruction
 
