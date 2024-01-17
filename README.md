@@ -63,6 +63,8 @@ where?
 
 # Installation Guide
 
+## For _RSS-Origin CelestialsPack_
+
 ***
 # Credit
 
