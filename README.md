@@ -215,4 +215,4 @@ Incompatibles: Other skybox packs or mods that adds custom skybox.
 ### Apologize to:
 	All members who have made noteworthy contributions to this mod but are not listed above
 
-For more information about credits, contributions and acknowledgements, see CREDIT.md
+For more information about credits, contributions and acknowledgements, see [CREDIT.md](https://github.com/CharonSSS/RSS-Origin/blob/main/CREDIT.md)
