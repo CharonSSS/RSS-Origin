@@ -33,7 +33,7 @@ Like the title, **this mod needs [RealSolarSystem](https://forum.kerbalspaceprog
 
 **_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique features can only be displayed in Principia, like irregular gravitational field of potatos, binary/trinary systems, orbital mechanics of trojans and co-orbitals, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get a good experience, especially conducting interplanetary missions.
 
-### --- Again, [Principia](https://github.com/mockingbirdnest/Principia) is highly recommended to play with ---
+### --- Again, [Principia](https://forum.kerbalspaceprogram.com/topic/162200-*) is highly recommended to play with ---
 
 ### And please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!
 
@@ -65,11 +65,24 @@ where?
 
 ## For _RSS-Origin CelestialsPack_
 
+### Things you should know:
+
 Since this mod adds 141 extra celestial bodies to your game by default, along with 33 celestial bodies from RSS, for a total of 174, **this will cause your game to lag during acceleration and slow scene switching**. Given this situation, the folder structure of this mod is: each celestial or celestial system is placed in a separate folder, and you can add or remove celestial folders according to your own needs to ensure the smoothness of your gameplay.
 
 We strongly **do not recommend** installing all celestials at once. (except for viewing scenery or searching for your target(s))
 
 It is highly recommended **not to** install all celestials while you are ready to conduct interplanetary missions! We suggest retaining only the celestial(s) required for the mission and removing the remainings.
+
+### Dependencies and recommendations
+
+[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-112-real-solar-system) and all dependencies of it (of course)
+(In case you are new to KSP, dependencies of RSS are: [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*), Kopernicus, RSS-Textures, KSP Community Fixes)
+
+### Download & installation instruction
+
+1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core_"**
+2. Go to the release page of this repository, choose what celestial(s) you desired, download it.
+3. 
 
 ***
 # Credit
