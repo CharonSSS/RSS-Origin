@@ -144,7 +144,7 @@ If you can run RSS (or RSS+Principia) on your device, you can run this mod. But 
 **This mod only replaces textures and cfgs, so [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) is the only dependency.**
 
 Incompatibles:
-This mod may be incompatible with RSS-Reborn. If you want to use my mod and you are using RSS-Reborn at the same time, please contact me or @ballisticfox in discord first. If you have the ability to correctly merge and modify mods, you can go for it and do it yourself.
+This mod may be incompatible with RSS-Reborn. If you want to use my mod and you are using RSS-Reborn at the same time, please contact me or [@ballisticfox](https://github.com/ballisticfox) in discord first. If you have the ability to correctly merge and modify mods, you can go for it and do it yourself.
 
 ### Download & installation instruction
 
