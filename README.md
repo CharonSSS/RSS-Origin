@@ -140,7 +140,7 @@ Seriously, I didn't expect anything incompatible. If there has to be an answer, 
 4. Go to the release page of this repository, choose what celestial(s) you desired, download it.
 5. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**，you will find 2 folders, Principia and RSSOrigin. Put both of them into your Gamedata and overwrite the 2 cfgs of Principia. (if you are playing without Principia, just ignore the 2 cfgs)
 6. Unzip the **_celestial pack(s).zip_**, and put all of them into your Gamedata.
-7. Follow the [step in "Important note"](tree/main#-important-note) above.
+7. Follow the [step in "Important note"](README.md#-important-note) above.
 8. If you are playing **without** Principia, just launch the game and continue your saves.
 9. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
 
