@@ -187,7 +187,7 @@ Dependency: Only [TextureReplacer](https://forum.kerbalspaceprogram.com/index.ph
 
 Incompatibles: Other skybox packs or mods that adds custom skybox.
 
-### Note: PNG version means **no quality loss** compared to the original starmap, but it increases game loading time and memory usage. DDS version reduces game loading time and memory usage but it has some color differences and error compared to the PNG version.
+### Note: PNG version means no quality loss compared to the original starmap, but it increases game loading time and memory usage. DDS version reduces game loading time and memory usage but it has some color differences and error compared to the PNG version.
 
 ### Download & installation instruction
 
