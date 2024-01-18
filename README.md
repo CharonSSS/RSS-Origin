@@ -21,11 +21,11 @@ Like the title, **this mod is basically a DLC for "[Real Solar System](https://f
 
 - **_RSS-Origin CelestialsPack_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the solar system, currently 141 in total. (dozens more in the future)
 
-- **_RSS-Origin RSSTexture&TopoRevamp_** (textures awaiting for upload), which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
+- **_RSS-Origin RSSTexture&TopoRevamp_**, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
 
 - **_RSS-Origin JSUNrings_**, which adds accurate and realistic rings to the 4 gas giants in our solar system.
 
-- **_RSS-Origin GalaxyTex_** (textures awaiting for upload), which replaces your skybox with a high-quality Milky Way background.
+- **_RSS-Origin GalaxyTex_**, which replaces your skybox with a high-quality Milky Way background.
 
 # More details about the mod (points for attention, to-dos, plans, screenshots)
 
