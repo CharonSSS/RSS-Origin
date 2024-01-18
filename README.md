@@ -65,7 +65,7 @@ It should be incompatible with other ring mods or visual mods that add rings.
 
 - ### _RSS-Origin GalaxyTex_
 
-**_RSS-Origin GalaxyTex_** replaces your skybox with a fairly good Milky Way background in correct orientation. 4 resolutions are provided (8k, 16k, 32k, 64k). Source [https://svs.gsfc.nasa.gov/4851](https://svs.gsfc.nasa.gov/4851).
+**_RSS-Origin GalaxyTex_** replaces your skybox with a fairly good Milky Way background in correct orientation. 4 resolutions are provided (8k, 16k, 32k, 64k) and 2 texture formats are provided (Default is PNG, which stands for high-quality. There're also DDS for each resolution, which reduce memory usage but lose some quality). Source [https://svs.gsfc.nasa.gov/4851](https://svs.gsfc.nasa.gov/4851).
 
 - ## Plans, to-dos:
 
@@ -187,11 +187,13 @@ Dependency: Only [TextureReplacer](https://forum.kerbalspaceprogram.com/index.ph
 
 Incompatibles: Other skybox packs or mods that adds custom skybox.
 
+### Note: PNG version means **no quality loss** compared to the original starmap, but it increases game loading time and memory usage. DDS version reduces game loading time and memory usage but it has some color differences and error compared to the PNG version.
+
 ### Download & installation instruction
 
 1. Go to the release page of this repository, download **"_RSS-Origin Core.zip_"**.
 2. Unzip **"_RSS-Origin Core.zip_"**，put "RSSOrigin" into your Gamedata.
-3. Go to the release page of this repository, choose a resolution you desired, download **"_RSS-Origin GalaxyTex(xx)k.zip_"**.
+3. Go to the release page of this repository, choose a resolution and format you desired, download **"_RSS-Origin GalaxyTex(xx)k.zip_"**.
 4. Unzip **"_RSS-Origin GalaxyTex(xx)k.zip_"**，put all the files into your Gamedata.
 5. Launch your game.
 
