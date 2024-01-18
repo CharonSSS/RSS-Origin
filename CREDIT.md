@@ -4,6 +4,7 @@
 
 ### Main Contributors: (Ranked in alphabetical order without distinction of the extent of contribution)
 	himīśā (For writing "3D model spherical harmonics calculator")
+ 	Kerbinator Fras (For Keplerian adaptation and improving and perfecting this repository page)
 	NewoEther (For writing "3D model greyscale generator")
 	Proxima-b (For career mode adaptation)
 
@@ -11,7 +12,6 @@
 	Alice Christina
 	ballisticfox
 	caps lock
-	Kerbinator Fras
 	猫猫是我心头好
 	R-T-B
 	游荡云雀
