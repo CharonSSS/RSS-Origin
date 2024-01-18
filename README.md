@@ -202,6 +202,7 @@ Incompatibles: Other skybox packs or mods that adds custom skybox.
 
 ### Main Contributors: (Ranked in alphabetical order without distinction of the extent of contribution)
 	himīśā
+ 	Kerbinator Fras
 	NewoEther
 	Proxima-b
 
@@ -209,7 +210,6 @@ Incompatibles: Other skybox packs or mods that adds custom skybox.
 	Alice Christina
 	ballisticfox
 	caps lock
-	Kerbinator Fras
 	猫猫是我心头好
 	R-T-B
 	游荡云雀
