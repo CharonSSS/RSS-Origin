@@ -45,9 +45,15 @@ And here is a list about all the celestials added and planning to add soon.
 
 - ### _RSS-Origin RSSTexture&TopoRevamp_
 
-**_RSS-Origin RSSTexture&TopoRevamp_** is an overhaul to some of the RSS celestials. I've done a widely search for information and figure out some of the RSS celestials are using wrong surface textures and topograhy maps, so this mod's purpose is to fix those issues. Different texture resolutions are provided (4k, 8k and 16k). And here is a list for all the objects been revamped. (only maximum resolution listed)
+**_RSS-Origin RSSTexture&TopoRevamp_** is an overhaul to some of the RSS celestials. I've done a widely search for information and figure out some of the RSS celestials are using wrong surface textures and topograhy maps, so this mod's purpose is to fix those issues. Different texture resolutions are provided (4k, 8k and 16k).
 
 ### Don't forget to read "[Installation Guide](README.md#installation-guide)" before installation!
+
+**The picture down below is family portraits of all revamped objects.**
+
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-RSSTTR.png)
+
+**And here is a list of all the objects been revamped. (only maximum resolution listed)**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/list%20of%20revamped%20objects%2016k.png)
 
