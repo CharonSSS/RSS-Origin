@@ -27,9 +27,11 @@ Like the title, **this mod is basically a DLC for "[Real Solar System](https://f
 
 - **_[RSS-Origin GalaxyTex](https://github.com/CharonSSS/RSS-Origin?tab=readme-ov-file#rss-origin-galaxytex)_**, which replaces your skybox with a high-quality Milky Way background.
 
+***
+
 # More details about the mod (points for attention, screenshots, to-dos, plans)
 
-- ### _RSS-Origin CelestialsPack_
+- ## _RSS-Origin CelestialsPack_
 
 **_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique features can only be displayed in Principia, like **irregular gravitational field of potatos**, **binary/trinary systems**, **orbital mechanics of trojans and co-orbitals**, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get a good experience, especially conducting interplanetary missions.
 
@@ -47,7 +49,9 @@ And here is a list about all the celestials added and planning to add soon.
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)
 
-- ### _RSS-Origin RSSTexture&TopoRevamp_
+***
+
+- ## _RSS-Origin RSSTexture&TopoRevamp_
 
 **_RSS-Origin RSSTexture&TopoRevamp_** is an overhaul to some of the RSS celestials. I've done a widely search for information and figure out some of the RSS celestials are using wrong and misaligned surface textures and topograhy maps, so this mod's purpose is to fix those issues. Different texture resolutions are provided (4k, 8k and 16k).
 
@@ -61,7 +65,9 @@ And here is a list about all the celestials added and planning to add soon.
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/list%20of%20revamped%20objects%2016k.png)
 
-- ### _RSS-Origin JSUNrings_
+***
+
+- ## _RSS-Origin JSUNrings_
 
 **_RSS-Origin JSUNrings_** adds realistic rings to Jupiter, Saturn, Uranus and Neptune:
 - Jupiter: Halo ring, Main ring, Amalthea gossamer ring, Thebe gossamer ring.
@@ -75,7 +81,9 @@ It should be incompatible with other ring mods or visual mods that add rings.
 
 ### Once again, don't forget to read "[Installation Guide](README.md#installation-guide)" before installation!
 
-- ### _RSS-Origin GalaxyTex_
+***
+
+- ## _RSS-Origin GalaxyTex_
 
 **_RSS-Origin GalaxyTex_** replaces your skybox with a fairly good Milky Way background in correct orientation. 4 resolutions are provided (8k, 16k, 32k, 64k) and 2 texture formats are provided (Default is PNG, which stands for high-quality. There're also DDS for each resolution, which reduce memory usage but lose some quality). Source [https://svs.gsfc.nasa.gov/4851](https://svs.gsfc.nasa.gov/4851).
 
@@ -92,6 +100,8 @@ It should be incompatible with other ring mods or visual mods that add rings.
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/screenshot438.png)
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/screenshot654.png)
+
+***
 
 - ## Plans, to-dos:
 
