@@ -67,6 +67,8 @@ And here is a list about all the celestials added and planning to add soon.
 
 It should be incompatible with other ring mods or visual mods that add rings.
 
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-JSUNR.png)
+
 ### Once again, don't forget to read "[Installation Guide](README.md#installation-guide)" before installation!
 
 - ### _RSS-Origin GalaxyTex_
