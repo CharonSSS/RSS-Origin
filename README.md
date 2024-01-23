@@ -27,7 +27,7 @@ Like the title, **this mod is basically a DLC for "[Real Solar System](https://f
 
 - **_RSS-Origin GalaxyTex_**, which replaces your skybox with a high-quality Milky Way background.
 
-# More details about the mod (points for attention, to-dos, plans, screenshots)
+# More details about the mod (points for attention, screenshots, to-dos, plans)
 
 - ### _RSS-Origin CelestialsPack_
 
@@ -91,9 +91,7 @@ It should be incompatible with other ring mods or visual mods that add rings.
 
 - ## Plans, to-dos:
 
-- ## Screenshots:
-
-where?
+TBA
 
 ***
 
