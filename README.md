@@ -7,7 +7,7 @@ This mod is still **work-in-progress**. The Github page is still **under constru
 
 Currently the mod is in **closed-beta**, many features are **unfinished**.
 
-**If you want to play it right now, just go to pre-release and download. But remember, this is still unfinished right now, me and my team are devoting every effort to improve it.**
+**If you want to play it right now, just go to pre-release and download. But remember, this is still partially unfinished right now, me and my team are devoting every effort to improve it.**
 
 **If you want to play and test it, or report bugs of it, or you have some ideas about my mod, I'm applying for a discord channel in Kopernicus server, once I've got a channel you can join the discussion.**
 
@@ -39,7 +39,7 @@ Me and my team are doing our best to ensure that every celestial body visited by
 
 ### And please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!
 
-**A brief view of current RSS-Origin's Solar System**
+**A brief view of current RSS-Origin's Solar System.**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-SolarSystemView.png)
 
