@@ -75,6 +75,8 @@ It should be incompatible with other ring mods or visual mods that add rings.
 
 #### **Here are some screenshots of GalaxyTex16k taken by Alice Christina. See [Gallery](https://github.com/CharonSSS/RSS-Origin/tree/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina) for more**
 
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/screenshot655.png)
+
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/20240123161845.png)
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/screenshot433.png)
@@ -82,6 +84,8 @@ It should be incompatible with other ring mods or visual mods that add rings.
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/screenshot435.png)
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/screenshot438.png)
+
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/screenshot654.png)
 
 - ## Plans, to-dos:
 
