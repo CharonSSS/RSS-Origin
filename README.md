@@ -1,6 +1,6 @@
 # (WIP) _***RSS-Origin - Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS***_
 
-![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/insignia%20by%20Alice%20Christina%wide.jpg)
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/insignia%20by%20Alice%20Christina%20wide.png)
 ***
 # Note
 This mod is still **work-in-progress**. The Github page is still **under construction**.
