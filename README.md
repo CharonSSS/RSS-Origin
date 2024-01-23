@@ -19,13 +19,13 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 Like the title, **this mod is basically a DLC for "[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*)"**, and currently it includes the following parts:
 
-- **_RSS-Origin CelestialsPack_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the solar system, currently 141 in total. (dozens more in the future)
+- **_[RSS-Origin CelestialsPack](https://github.com/CharonSSS/RSS-Origin/tree/main?tab=readme-ov-file#rss-origin-celestialspack)_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the solar system, currently 141 in total. (dozens more in the future)
 
-- **_RSS-Origin RSSTexture&TopoRevamp_**, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
+- **_[RSS-Origin RSSTexture&TopoRevamp](https://github.com/CharonSSS/RSS-Origin#rss-origin-rsstexturetoporevamp)_**, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
 
-- **_RSS-Origin JSUNrings_**, which adds accurate and realistic rings to the 4 gas giants in our solar system.
+- **_[RSS-Origin JSUNrings](https://github.com/CharonSSS/RSS-Origin?tab=readme-ov-file#rss-origin-jsunrings)_**, which adds accurate and realistic rings to the 4 gas giants in our solar system.
 
-- **_RSS-Origin GalaxyTex_**, which replaces your skybox with a high-quality Milky Way background.
+- **_[RSS-Origin GalaxyTex](https://github.com/CharonSSS/RSS-Origin?tab=readme-ov-file#rss-origin-galaxytex)_**, which replaces your skybox with a high-quality Milky Way background.
 
 # More details about the mod (points for attention, screenshots, to-dos, plans)
 
