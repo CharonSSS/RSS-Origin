@@ -45,6 +45,10 @@ Me and my team are doing our best to ensure that every celestial body visited by
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-SolarSystemView.png)
 
+**A brief view of current RSS-Origin's Gas&Ice Giants' Solar System.**
+
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-GGSystemView.png)
+
 And here is a list about all the celestials added and planning to add soon.
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)
