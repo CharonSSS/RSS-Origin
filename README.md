@@ -69,6 +69,8 @@ And here is a list about all the celestials added and planning to add soon.
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/list%20of%20revamped%20objects%2016k.png)
 
+**RSS-Origin GasGiantShapeCorrection is NOT included in current release.**
+
 ***
 
 - ## _RSS-Origin JSUNrings_
@@ -91,7 +93,7 @@ It should be incompatible with other ring mods or visual mods that add rings.
 
 **_RSS-Origin GalaxyTex_** replaces your skybox with a fairly good Milky Way background in correct orientation. 4 resolutions are provided (8k, 16k, 32k, 64k) and 2 texture formats are provided (Default is PNG, which stands for high-quality. There're also DDS for each resolution, which reduce memory usage but lose some quality). Source [https://svs.gsfc.nasa.gov/4851](https://svs.gsfc.nasa.gov/4851).
 
-#### **Here are some screenshots of GalaxyTex16k taken by Alice Christina. See [Gallery](https://github.com/CharonSSS/RSS-Origin/tree/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina) for more**
+#### **Here are some screenshots of GalaxyTex16k taken by Alice Christina. See [Gallery](https://github.com/CharonSSS/RSS-Origin/tree/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina) for more.**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/GalaxyTex%20screenshots%20taken%20by%20Alice%20Christina/screenshot655.png)
 
