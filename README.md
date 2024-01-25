@@ -49,7 +49,7 @@ Me and my team are doing our best to ensure that every celestial body visited by
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-GGSystemView.png)
 
-**A list of exceptional celestials added in current release of _RSS-Origin CelestialsPack_**
+**A list of exceptional celestials added in current release of _RSS-Origin CelestialsPack_. (standardized albedo) (not to scale)**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-LOECA.png)
 
