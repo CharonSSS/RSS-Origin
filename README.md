@@ -57,7 +57,7 @@ Textures in this mod do not exceed 8k (only Haumea uses 8k texture). Larger bodi
 
 **And here is a list about all the celestials added and planning to add.**
 
-![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin.png)
 
 ***
 
