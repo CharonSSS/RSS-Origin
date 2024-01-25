@@ -53,7 +53,7 @@ Me and my team are doing our best to ensure that every celestial body visited by
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-LOECA.png)
 
-**And here is a list about all the celestials added and planning to add soon.**
+**And here is a list about all the celestials added and planning to add.**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)
 
@@ -138,7 +138,7 @@ Go to RSSOrigin in gamedata, search for celestial folders you need or don't need
 Move the unwanted celestial folders out of GameData. (! Please remember the location of the celestial folder before moving it out! If you forget, you can go to check "[List of added celestials](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)" for the location of the celestial folder)
 If you need a certain celestial or celestial system, you can place it back in the corresponding position within GameData/RSSOrigin.
 
-If you want to install small moons in the ring of gas/ice giants and also want to add rings to gas/ice giants, it is recommended to use "**_RSS-Origin JSUNrings_**". This ring pack is matched with RSS-Origin, and the positions of the small moons and rings are adjusted according to reality. If this ring pack is not used, the small moons may drift elsewhere, which is very unreasonable.
+If you want to install small moons in the ring of gas/ice giants and also want to add rings to gas/ice giants, it is recommended to use "**_[RSS-Origin JSUNrings](https://github.com/CharonSSS/RSS-Origin?tab=readme-ov-file#rss-origin-jsunrings)_**". This ring pack is matched with RSS-Origin, and the positions of the small moons and rings are adjusted according to reality. If this ring pack is not used, the small moons may drift elsewhere, which is very unreasonable.
 
 **Statement: The orbital data, physical data, appearance, etc. of celestial bodies are not guaranteed to be completely consistent with reality.**
 
@@ -207,7 +207,7 @@ This mod may be incompatible with RSS-Reborn. If you want to use my mod and you 
 5. Launch your game.
 
 ### Hardward requirements
-It is the same as RSS Textures.
+It is the same as RSS-Textures.
 
 ## For _RSS-Origin JSUNrings_
 
