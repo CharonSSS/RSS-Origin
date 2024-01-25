@@ -117,7 +117,13 @@ It should be incompatible with other ring mods or visual mods that add rings.
 
 - ## Plans, to-dos:
 
-TBA
+- more celestials
+- keplerian average
+- Parallax support
+- Kerbalism support
+- RP-1 support
+- DOE support
+- better terrain texture
 
 ***
 
