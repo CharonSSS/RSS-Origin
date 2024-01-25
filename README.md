@@ -37,6 +37,8 @@ Like the title, **this mod is basically a DLC for "[Real Solar System](https://f
 
 Me and my team are doing our best to ensure that every celestial body visited by spacecraft uses models and textures that are as close to reality as possible in the game, celestial bodies that have not been visited by spacecraft use their models and spectra based on ground observations as much as possible. The physical characteristics of those completely unknown objects are reasonable artistic creations based solely on existing data.
 
+Textures in this mod do not exceed 8k (only Haumea uses 8k texture). Larger bodies uses 4k textures or lower, smaller bodies uses 2k or lower.
+
 ### --- Again, [Principia](https://forum.kerbalspaceprogram.com/topic/162200-*) is highly recommended to play with ---
 
 ### And please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!
@@ -45,7 +47,7 @@ Me and my team are doing our best to ensure that every celestial body visited by
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-SolarSystemView.png)
 
-**A brief view of current RSS-Origin's Gas&Ice Giants' Solar System.**
+**A brief view of current RSS-Origin's Gas&Ice Giants' Systems.**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-GGSystemView.png)
 
@@ -157,7 +159,7 @@ If you want to install small moons in the ring of gas/ice giants and also want t
 (In case you are new to KSP, dependencies of RSS are: [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*), [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-*), [RSS-Textures](https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*), [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*))
 
 ### !!! Important note：
-#### - Check if you have "KSP Community Fixes" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings. If you don't follow this step, you "may" experience a extremely laggy gameplay once you are inflight.
+#### - Check if you have "[KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*)" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings. If you don't follow this step, you "may" experience a extremely laggy gameplay once you are inflight.
 #### - If you haven't install "KSP Community Fixes" yet, install it, and follow the step above. If "KSP Community Fixes" is not in your gamedata, you will be sure to experience the same issue.
 
 Highly recommend: 
@@ -174,7 +176,7 @@ Recommend:
 - [TUFX](https://forum.kerbalspaceprogram.com/index.php?/topic/192212-*)
 
 Incompatibles:
-Seriously, I didn't expect anything incompatible. If there has to be an answer, it is other expansion pack for RSS are incompatible.
+Seriously, I didn't expect anything incompatible. If there has to be an answer, it is other expansion packs for RSS.
 
 ### Download & installation instruction
 
