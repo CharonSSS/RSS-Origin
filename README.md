@@ -61,7 +61,7 @@ And here is a list about all the celestials added and planning to add soon.
 
 ### Don't forget to read "[Installation Guide](README.md#installation-guide)" before installation!
 
-#### **The picture down below is family portraits of all revamped objects. (standardized albedo)**
+#### **The picture down below is family portraits of all revamped objects. (standardized albedo) (not to scale)**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-RSSTTR.png)
 
