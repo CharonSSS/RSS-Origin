@@ -49,7 +49,11 @@ Me and my team are doing our best to ensure that every celestial body visited by
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-GGSystemView.png)
 
-And here is a list about all the celestials added and planning to add soon.
+**A list of exceptional celestials added in current release of _RSS-Origin CelestialsPack_**
+
+![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-LOECA.png)
+
+**And here is a list about all the celestials added and planning to add soon.**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)
 
