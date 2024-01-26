@@ -71,6 +71,8 @@ Textures in this mod do not exceed 8k (only Haumea uses 8k texture). Larger bodi
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-RSSTTR.png)
 
+**Note: The Jupiter texture above is derived from RSS-Reborn by [@ballisticfox](https://github.com/ballisticfox), kindly used with his permission. RSS-Reborn is basically a totally remake of RSS, with the highest quality texture, terrain and visual enhancement ever (64k Earth, Moon, Mars, etc.). See [RSS-Reborn](https://www.patreon.com/ballisticfox/posts) for more detail.**
+
 #### **And here is a list of all the objects been revamped. (only maximum resolution listed)**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/list%20of%20revamped%20objects%2016k.png)
