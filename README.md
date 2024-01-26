@@ -1,4 +1,4 @@
-# (WIP) _***RSS-Origin - Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS***_
+# (WIP) _***RSS-Origin - Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls for RSS***_
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/insignia%20by%20Alice%20Christina%20wide.png)
 ***
@@ -17,11 +17,11 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 # About the mod
 
-Like the title, **this mod is basically a DLC for "[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*)"**, and currently it includes the following parts:
+Like the title, **this mod is basically an expansion for "[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*)"**, and currently it includes following parts:
 
-- **_[RSS-Origin CelestialsPack](https://github.com/CharonSSS/RSS-Origin/tree/main?tab=readme-ov-file#rss-origin-celestialspack)_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into the solar system, currently 141 in total. (dozens more in the future)
+- **_[RSS-Origin CelestialsPack](https://github.com/CharonSSS/RSS-Origin/tree/main?tab=readme-ov-file#rss-origin-celestialspack)_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into real solar system, currently 141 in total. (dozens more in the future)
 
-- **_[RSS-Origin RSSTexture&TopoRevamp](https://github.com/CharonSSS/RSS-Origin#rss-origin-rsstexturetoporevamp)_**, which overhauls some of the RSS celestials with more accurate, more realistic and higher res textures and topography, since some of the RSS textures are unrealistic in color and topo and other stuff.
+- **_[RSS-Origin RSSTexture&TopoRevamp](https://github.com/CharonSSS/RSS-Origin#rss-origin-rsstexturetoporevamp)_**, which overhauls some RSS celestials with more accurate, more realistic and higher res textures and topography, since some of original RSS textures are unrealistic in color, topo and other stuff.
 
 - **_[RSS-Origin JSUNrings](https://github.com/CharonSSS/RSS-Origin?tab=readme-ov-file#rss-origin-jsunrings)_**, which adds accurate and realistic rings to the 4 gas giants in our solar system.
 
@@ -33,11 +33,11 @@ Like the title, **this mod is basically a DLC for "[Real Solar System](https://f
 
 - ## _RSS-Origin CelestialsPack_
 
-**_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique features can only be displayed in Principia, like **irregular gravitational field of potatos**, **binary/trinary systems**, **orbital mechanics of trojans and co-orbitals**, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get a good experience, especially conducting interplanetary missions.
+**_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique features can only be displayed in Principia, like **gravitational field of irregular potatoes**, **binary/trinary systems**, **orbital mechanics of trojans and co-orbitals**, **small objects swinging by major planet changing its orbit**,etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, and there are relatively good averaged orbit elements; but I bet you won't get best experience, especially when conducting interplanetary missions.
 
-Me and my team are doing our best to ensure that every celestial body visited by spacecraft uses models and textures that are as close to reality as possible in the game, celestial bodies that have not been visited by spacecraft use their models and spectra based on ground observations as much as possible. The physical characteristics of those completely unknown objects are reasonable artistic creations based solely on existing data.
+Me and my team are doing our best to ensure that every celestial body visited by spacecraft uses models and textures that are as close to reality as possible in the game, celestial bodies that have not been visited by spacecraft use their models and spectra based on reliable observations as much as possible. The physical characteristics of those completely unknown objects are reasonable artistic creations based solely on existing data.
 
-Textures in this mod do not exceed 8k (only Haumea uses 8k texture). Larger bodies uses 4k textures or lower, smaller bodies uses 2k or lower.
+Textures in this pack do not exceed 8k (only Haumea uses 8k texture). Larger bodies uses 4k textures or lower, smaller bodies uses 2k or lower.
 
 ### --- Again, [Principia](https://forum.kerbalspaceprogram.com/topic/162200-*) is highly recommended to play with ---
 
@@ -63,11 +63,11 @@ Textures in this mod do not exceed 8k (only Haumea uses 8k texture). Larger bodi
 
 - ## _RSS-Origin RSSTexture&TopoRevamp_
 
-**_RSS-Origin RSSTexture&TopoRevamp_** is an overhaul to some of the RSS celestials. I've done a widely search for information and figure out some of the RSS celestials are using wrong and misaligned surface textures and topograhy maps, so this mod's purpose is to fix those issues. Different texture resolutions are provided (4k, 8k and 16k).
+**_RSS-Origin RSSTexture&TopoRevamp_** is an overhaul to some of the RSS celestials. I've done a widely search for information and figure out some of the RSS celestials are using wrong and misaligned surface textures ,topograhy maps, false or enhanced color images. So this mod's purpose is to fix those issues, fixing texture alignment flip or rotation, and make them displayed in natural color. Different texture resolutions are provided (4k, 8k and 16k).
 
 ### Don't forget to read "[Installation Guide](README.md#installation-guide)" before installation!
 
-#### **The picture down below is family portraits of all revamped objects. (standardized albedo) (not to scale)**
+#### **The picture below is family portraits of all revamped objects. (standardized albedo) (not to scale)**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-RSSTTR.png)
 
@@ -148,7 +148,7 @@ Go to RSSOrigin in gamedata, search for celestial folders you need or don't need
 Move the unwanted celestial folders out of GameData. (! Please remember the location of the celestial folder before moving it out! If you forget, you can go to check "[List of added celestials](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)" for the location of the celestial folder)
 If you need a certain celestial or celestial system, you can place it back in the corresponding position within GameData/RSSOrigin.
 
-If you want to install small moons in the ring of gas/ice giants and also want to add rings to gas/ice giants, it is recommended to use "**_[RSS-Origin JSUNrings](https://github.com/CharonSSS/RSS-Origin?tab=readme-ov-file#rss-origin-jsunrings)_**". This ring pack is matched with RSS-Origin, and the positions of the small moons and rings are adjusted according to reality. If this ring pack is not used, the small moons may drift elsewhere, which is very unreasonable.
+If you want to install small moons in the rings of gas/ice giants and also want to add rings to gas/ice giants, it is recommended to use "**_[RSS-Origin JSUNrings](https://github.com/CharonSSS/RSS-Origin?tab=readme-ov-file#rss-origin-jsunrings)_**". This ring pack is matched with RSS-Origin, and the positions of the small moons and rings are adjusted according to reality. If this ring pack is not used, the small moons may drift elsewhere, which will look weird at least visually - they may get out of the gap which they should be in, for example.
 
 **Statement: The orbital data, physical data, appearance, etc. of celestial bodies are not guaranteed to be completely consistent with reality.**
 
@@ -157,8 +157,8 @@ If you want to install small moons in the ring of gas/ice giants and also want t
 - 2. Objects that are too small may not be visible (or appear black) on the tracking station and map view even if the camera is pulled closest, which is the scaling limitation of KSP.
 - 3. After installing a large number of celestials with Principia, when the Plotting Frame Selection interface is fully expanded, the game will become extremely laggy. Reducing the number of expanded celestials or closing the interface can solve this problem.
 - 4. After installing a large number of celestials without Principia, when you go to map view, the game will become laggy due to too much orbit lines rendered.
-- 5. The limitation of Principia results in some moons that are tidally locked with planets being unable to effectively maintain tidal locking. After a period of timewarp, the moons will deviate from the correct orientation, which cannot be solved at present.
-- 6. There may be some bugs for unknown reasons when attempting to transfer between some small asteroids and their moons (passing through SOI). Switching to the tracking station and then switch back to the vehicle can solve this problem.
+- 5. The limitation of Principia, which is only constant angular frequency per object is possible, results in some moons that are tidally locked with planets being unable to effectively maintain tidal locking. After warping for a period of time, the moons will deviate from the correct orientation, which cannot be solved at present.
+- 6. There may be some bugs for unknown reasons when attempting to transfer between some small asteroids and their moons (passing through SOI). Switching to the tracking station and then switch back to the vessel can solve this problem.
 
 ### Dependencies and recommendations
 
@@ -241,7 +241,7 @@ Dependency: Only [TextureReplacer](https://forum.kerbalspaceprogram.com/index.ph
 
 Incompatibles: Other skybox packs or mods that adds custom skybox.
 
-### Note: PNG version means no quality loss compared to the original starmap, but it increases game loading time and memory usage. DDS version reduces game loading time and memory usage but it has some color differences and error compared to the PNG version.
+### Note: PNG version means no quality loss compared to the original starmap, but it increases game loading time and memory usage. DDS version reduces game loading time and memory usage but it has some minor color differences and error compared to the PNG version.
 
 ### Download & installation instruction
 
