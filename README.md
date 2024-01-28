@@ -150,6 +150,8 @@ If you need a certain celestial or celestial system, you can place it back in th
 
 If you want to install small moons in the rings of gas/ice giants and also want to add rings to gas/ice giants, it is recommended to use "**_[RSS-Origin JSUNrings](https://github.com/CharonSSS/RSS-Origin?tab=readme-ov-file#rss-origin-jsunrings)_**". This ring pack is matched with RSS-Origin, and the positions of the small moons and rings are adjusted according to reality. If this ring pack is not used, the small moons may drift elsewhere, which will look weird at least visually - they may get out of the gap which they should be in, for example.
 
+You can choose orbit line color and whether to use astrological symbols or not in GameData/RSSOrigin/RSSOriginSettings.cfg
+
 **Statement: The orbital data, physical data, appearance, etc. of celestial bodies are not guaranteed to be completely consistent with reality.**
 
 **There're also 6 issues of this mod**
