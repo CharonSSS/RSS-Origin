@@ -9,7 +9,7 @@ Currently the mod is in **closed-beta**, many features are **unfinished**.
 
 **If you want to play it right now, just go to pre-release and download. But remember, this is still partially unfinished right now, me and my team are devoting every effort to improve it.**
 
-**If you want to play and test it, or report bugs of it, or you have some ideas about my mod, I've got a discord channel in Kopernicus server: https://discord.com/channels/365524830667145219/1200124792339169330.**
+**If you want to play and test it, or report bugs of it, or you have some ideas about my mod, I've got a discord channel in Kopernicus server: https://discord.com/channels/365524830667145219/1200124792339169330, and a channel in FoxTech: https://discord.com/channels/1155248133262024745/1201665996612698113. You can contact me in both channels.**
 
 ***
 # !!!Please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!!!
