@@ -12,6 +12,7 @@
 	Alice Christina
 	ballisticfox
 	caps lock
+	Lekword
 	猫猫是我心头好
 	R-T-B
 	游荡云雀
