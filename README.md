@@ -3,13 +3,11 @@
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/insignia%20by%20Alice%20Christina%20wide.png)
 ***
 # Note
-This mod is still **work-in-progress**. The Github page is still **under construction**.
+This mod is still **work-in-progress**, some features are still **under construction**. Me and my team are devoting every effort to improve it.
 
-Currently the mod is in **closed-beta**, many features are **unfinished**.
+**If you want to play it right now, just go to release and download.**
 
-**If you want to play it right now, just go to pre-release and download. But remember, this is still partially unfinished right now, me and my team are devoting every effort to improve it.**
-
-**If you want to play and test it, or report bugs of it, or you have some ideas about my mod, I've got a discord channel in Kopernicus server: https://discord.com/channels/365524830667145219/1200124792339169330, and a channel in FoxTech: https://discord.com/channels/1155248133262024745/1201665996612698113. You can contact me in both channels.**
+**If you want to report bugs of my mod, or you have some ideas or questions about it, I've got a discord channel in Kopernicus server: https://discord.com/channels/365524830667145219/1200124792339169330, and a channel in FoxTech: https://discord.com/channels/1155248133262024745/1201665996612698113. You can contact me in both channels.**
 
 ***
 # !!!Please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!!!
@@ -120,12 +118,11 @@ It should be incompatible with other ring mods or visual mods that add rings.
 - ## Plans, to-dos:
 
 - more celestials
-- keplerian average
+- more keplerian average
+- better terrain texture
 - Parallax support
 - Kerbalism support
 - RP-1 support
-- DOE support
-- better terrain texture
 
 ***
 
