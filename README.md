@@ -159,7 +159,7 @@ You can choose orbit line color and whether to use astrological symbols or not i
 - 5. The limitation of Principia, which is only constant angular frequency per object is possible, results in some moons that are tidally locked with planets being unable to effectively maintain tidal locking. After warping for a period of time, the moons will deviate from the correct orientation, which cannot be solved at present.
 - 6. There may be some bugs for unknown reasons when attempting to transfer between some small asteroids and their moons (passing through SOI). Switching to the tracking station and then switch back to the vessel can solve this problem.
 
-### A quick summarize for several common quastions and mistakes in installing and playing RSS-Origin: (subject to change)
+### A quick summarize for several common questions and mistakes in installing and playing RSS-Origin: (subject to change)
 
 (1) For the capability of RSS-Origin and RSS-Reborn:
 - a. RSS-Origin CelestialsPack is fully compatible with RSS-Reborn.
