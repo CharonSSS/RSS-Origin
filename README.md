@@ -140,7 +140,7 @@ We strongly **do not recommend** installing all celestials at once. (except for 
 
 It is highly recommended **not to** install all celestials while you are ready to conduct interplanetary missions! We suggest retaining only the celestial(s) required for the mission and removing the remainings.
 
-**Specific operations for adding/removing celestial bodies:**
+### Specific operations for adding/removing celestial bodies:
 Go to RSSOrigin in gamedata, search for celestial folders you need or don't need.
 Move the unwanted celestial folders out of GameData. (! Please remember the location of the celestial folder before moving it out! If you forget, you can go to check "[List of added celestials](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/Celestial%20bodies%20added%20in%20RSS-Origin%20up-coming%20initial%20release.png)" for the location of the celestial folder)
 If you need a certain celestial or celestial system, you can place it back in the corresponding position within GameData/RSSOrigin.
@@ -149,9 +149,9 @@ If you want to install small moons in the rings of gas/ice giants and also want 
 
 You can choose orbit line color and whether to use astrological symbols or not in GameData/RSSOrigin/RSSOriginSettings.cfg
 
-**Statement: The orbital data, physical data, appearance, etc. of celestial bodies are not guaranteed to be completely consistent with reality.**
+### Statement: The orbital data, physical data, appearance, etc. of celestial bodies are not guaranteed to be completely consistent with reality.
 
-**There're also 6 issues of this mod**
+### There're also 6 issues of this mod
 - 1. Objects with smaller radii (<400m) may have rendering bugs. When viewed from a distance, the overall display will be black. When approaching, the texture will flicker, but it does not affect landing. Once approached, it will return to normal.
 - 2. Objects that are too small may not be visible (or appear black) on the tracking station and map view even if the camera is pulled closest, which is the scaling limitation of KSP.
 - 3. After installing a large number of celestials with Principia, when the Plotting Frame Selection interface is fully expanded, the game will become extremely laggy. Reducing the number of expanded celestials or closing the interface can solve this problem.
@@ -159,7 +159,7 @@ You can choose orbit line color and whether to use astrological symbols or not i
 - 5. The limitation of Principia, which is only constant angular frequency per object is possible, results in some moons that are tidally locked with planets being unable to effectively maintain tidal locking. After warping for a period of time, the moons will deviate from the correct orientation, which cannot be solved at present.
 - 6. There may be some bugs for unknown reasons when attempting to transfer between some small asteroids and their moons (passing through SOI). Switching to the tracking station and then switch back to the vessel can solve this problem.
 
-**A quick summarize for several common quastions and mistakes in installing and playing RSS-Origin: (subject to change)**
+### A quick summarize for several common quastions and mistakes in installing and playing RSS-Origin: (subject to change)
 
 (1) For the capability of RSS-Origin and RSS-Reborn:
 - a. RSS-Origin CelestialsPack is fully compatible with RSS-Reborn.
