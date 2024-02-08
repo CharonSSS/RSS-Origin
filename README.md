@@ -159,6 +159,25 @@ You can choose orbit line color and whether to use astrological symbols or not i
 - 5. The limitation of Principia, which is only constant angular frequency per object is possible, results in some moons that are tidally locked with planets being unable to effectively maintain tidal locking. After warping for a period of time, the moons will deviate from the correct orientation, which cannot be solved at present.
 - 6. There may be some bugs for unknown reasons when attempting to transfer between some small asteroids and their moons (passing through SOI). Switching to the tracking station and then switch back to the vessel can solve this problem.
 
+**A quick summarize for several common quastions and mistakes in installing and playing RSS-Origin: (subject to change)**
+(1) For the capability of RSS-Origin and RSS-Reborn:
+- a. RSS-Origin CelestialsPack is fully compatible with RSS-Reborn.
+- b. RSS-Origin JSUNrings is compatible with current verison of RSS-Reborn. In next RSS-Reborn update, Fox will merge and modify the rings from RSS-Origin to RSS-Reborn, which means if you have installed RSS-Reborn, you needn't to install RSS-Origin JSUNrings.
+- c. If you want to use RSS-Origin GalaxyTex while RSS-Reborn is installed, you have to remove the Skybox folder in GameData/RSS-Configs.
+- d. RSS-Origin RSSTexture&TopoRevamp is totally incompatible with RSS-Reborn. But, same as RSS-Origin JSUNrings, Fox will merge some better textures from RSS-Origin to RSS-Reborn.
+(2) For using RSS-Origin CelestialsPack with Principia:
+- a. Whether to use Principia or not mainly depends on personal preference. Principia makes irregular gravitational field possible, along with more accurate orbital mechanics and axial tilt. If you think those features aren't necessary to you, just ignore Principia.
+- b. IMPORTANT. Don't forget to drag the 2 principia cfgs in RSS-Origin.CelestialsPack.Core.zip! Or your game will probably get crashed! Or your moons will probably get into wrong orbits!
+- c. Due to the limitation of Principia itself, you can add new celestials before you start a new save, and you can remove any number of them after you start a new save, but you cannot add new celestials to your old saves.
+(3) For using RSS-Origin CelestialsPack without Principia:
+- a. You don't have to do the procedure as said in <(2)-b>.
+- b. You can add/remove any number of new celestials at any time to any of your old saves or new saves.
+(4) For general gameplay of RSS-Origin
+- a. The game starts at 1951-01-01, so if you want to focus the two interstellar objects, you may need to warp to at least 50 years later in the game.
+- b. You can change the types of orbit color and celestial icon in GameData/RSSOrigin/RSSOriginSettings.cfg according to your own favor.
+(5) For other compatibilities
+- a. RSS-Origin CelestialsPack supports you to playing it at KSRSS scale via Sigma Dimensions. (without Principia)
+
 ### Dependencies and recommendations
 
 [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) and all dependencies of it (of course)
@@ -205,7 +224,7 @@ If you can run RSS (or RSS+Principia) on your device, you can run this mod. But 
 **This mod only replaces textures and cfgs, so [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) is the only dependency.**
 
 Incompatibles:
-This mod may be incompatible with RSS-Reborn. If you want to use my mod and you are using RSS-Reborn at the same time, please contact me or [@ballisticfox](https://github.com/ballisticfox) in discord first. If you have the ability to correctly merge and modify mods, you can go for it and do it yourself.
+This mod is incompatible with RSS-Reborn. If you want to use my mod and you are using RSS-Reborn at the same time, please contact me or [@ballisticfox](https://github.com/ballisticfox) in discord first. If you have the ability to correctly merge and modify mods, you can go for it and do it yourself.
 
 ### Download & installation instruction
 
