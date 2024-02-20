@@ -196,7 +196,6 @@ You can choose orbit line color and whether to use astrological symbols or not i
 Highly recommend: 
 - [Principia](https://forum.kerbalspaceprogram.com/topic/162200-*)
 - [Realism Overhaul](http://forum.kerbalspaceprogram.com/index.php?/topic/155700-122-realism-overhaul-v1150-05262017/)
-- [Realistic Progression One (RP-1)](https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*)
 - [KSC Switcher](https://forum.kerbalspaceprogram.com/index.php?/topic/106206-*)
 - [RSS DateTime Formatter](http://forum.kerbalspaceprogram.com/index.php?/topic/139335-*)
 
