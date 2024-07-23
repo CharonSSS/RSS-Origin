@@ -17,7 +17,7 @@ This mod is still **work-in-progress**, some features are still **under construc
 
 Like the title, **this mod is basically an expansion for "[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*)"**, and currently it includes following parts:
 
-- **_[RSS-Origin CelestialsPack](https://github.com/CharonSSS/RSS-Origin/tree/main?tab=readme-ov-file#rss-origin-celestialspack)_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into real solar system, currently 141 in total. (dozens more in the future)
+- **_[RSS-Origin CelestialsPack](https://github.com/CharonSSS/RSS-Origin/tree/main?tab=readme-ov-file#rss-origin-celestialspack)_**, the major part of this mod, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into real solar system, currently 198 in total. (dozens more in the future)
 
 - **_[RSS-Origin RSSTexture&TopoRevamp](https://github.com/CharonSSS/RSS-Origin#rss-origin-rsstexturetoporevamp)_**, which overhauls some RSS celestials with more accurate, more realistic and higher res textures and topography, since some of original RSS textures are unrealistic in color, topo and other stuff.
 
@@ -35,7 +35,7 @@ Like the title, **this mod is basically an expansion for "[Real Solar System](ht
 
 Me and my team are doing our best to ensure that every celestial body visited by spacecraft uses models and textures that are as close to reality as possible in the game, celestial bodies that have not been visited by spacecraft use their models and spectra based on reliable observations as much as possible. The physical characteristics of those completely unknown objects are reasonable artistic creations based solely on existing data.
 
-Textures in this pack do not exceed 8k (only Haumea uses 8k texture). Larger bodies uses 4k textures or lower, smaller bodies uses 2k or lower.
+Textures in this pack do not exceed 8k. Larger bodies uses 4k textures or lower, smaller bodies uses 2k or lower.
 
 ### --- Again, [Principia](https://forum.kerbalspaceprogram.com/topic/162200-*) is highly recommended to play with ---
 
@@ -85,9 +85,7 @@ Textures in this pack do not exceed 8k (only Haumea uses 8k texture). Larger bod
 - Jupiter: Halo ring, Main ring, Amalthea gossamer ring, Thebe gossamer ring.
 - Saturn: Main rings (A,B,C,D,F), G ring, E ring.
 - Uranus: Narrow main rings (6, 5, 4, α, β, η, γ, δ, ε), Dusty rings (1986U2R/ζ, λ), Outer rings (ν, μ).
-- Neptune: Galle ring, Le Verrier ring, Lassell ring, Adams ring.
-
-It should be incompatible with other ring mods or visual mods that add rings.
+- Neptune: Galle ring, Le Verrier ring, Lassell ring, Adams ring and arcs.
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/RSSO-JSUNR.png)
 
@@ -120,9 +118,8 @@ It should be incompatible with other ring mods or visual mods that add rings.
 - more celestials
 - more keplerian average
 - better terrain texture
-- Parallax support
-- Kerbalism support
-- RP-1 support
+- more parallax support
+- ...
 
 ***
 
@@ -151,37 +148,35 @@ You can choose orbit line color and whether to use astrological symbols or not i
 
 ### Statement: The orbital data, physical data, appearance, etc. of celestial bodies are not guaranteed to be completely consistent with reality.
 
-### There're also 6 issues of this mod
-- 1. Objects with smaller radii (<400m) may have rendering bugs. When viewed from a distance, the overall display will be black. When approaching, the texture will flicker, but it does not affect landing. Once approached, it will return to normal.
-- 2. Objects that are too small may not be visible (or appear black) on the tracking station and map view even if the camera is pulled closest, which is the scaling limitation of KSP.
-- 3. After installing a large number of celestials with Principia, when the Plotting Frame Selection interface is fully expanded, the game will become extremely laggy. Reducing the number of expanded celestials or closing the interface can solve this problem.
-- 4. After installing a large number of celestials without Principia, when you go to map view, the game will become laggy due to too much orbit lines rendered.
-- 5. The limitation of Principia, which is only constant angular frequency per object is possible, results in some moons that are tidally locked with planets being unable to effectively maintain tidal locking. After warping for a period of time, the moons will deviate from the correct orientation, which cannot be solved at present.
-- 6. There may be some bugs for unknown reasons when attempting to transfer between some small asteroids and their moons (passing through SOI). Switching to the tracking station and then switch back to the vessel can solve this problem.
+### There're also 5 issues of this mod
+- 1. Objects with smaller radii (<409m) may have rendering bugs. When viewed from a distance, the overall display will be black. When approaching, the texture will probably flicker, but it does not affect landing. Once approached, it will return to normal.
+- 2. After installing a large number of celestials with Principia, when the Plotting Frame Selection interface is fully expanded, the game will become extremely laggy. Reducing the number of expanded celestials or closing the interface can solve this problem.
+- 3. After installing a large number of celestials without Principia, when you go to map view, the game will become laggy due to too much orbit lines rendered.
+- 4. The limitation of Principia, which is only constant angular frequency per object is possible, results in some moons that are tidally locked with planets being unable to effectively maintain tidal locking. After warping for a period of time, the moons will deviate from the correct orientation, which cannot be solved at present.
+- 5. There may be some bugs for unknown reasons when attempting to transfer between some small asteroids and their moons (passing through SOI). Switching to the tracking station and then switch back to the vessel can solve this problem.
 
 ### A quick summarize for several common questions and mistakes in installing and playing RSS-Origin: (subject to change)
 
 (1) For the capability of RSS-Origin and RSS-Reborn:
 - a. RSS-Origin CelestialsPack is fully compatible with RSS-Reborn.
-- b. RSS-Origin JSUNrings is compatible with current verison of RSS-Reborn. In next RSS-Reborn update, Fox will merge and modify the rings from RSS-Origin to RSS-Reborn, which means if you have installed RSS-Reborn, you needn't to install RSS-Origin JSUNrings.
+- b. RSS-Origin JSUNrings is compatible with current verison of RSS-Reborn. In next RSS-Reborn update, Fox will probably merge and modify the rings from RSS-Origin to RSS-Reborn, which means if you have installed RSS-Reborn, you needn't to install RSS-Origin JSUNrings.
 - c. If you want to use RSS-Origin GalaxyTex while RSS-Reborn is installed, you have to remove the Skybox folder in GameData/RSS-Configs.
 - d. RSS-Origin RSSTexture&TopoRevamp is totally incompatible with RSS-Reborn. But, same as RSS-Origin JSUNrings, Fox will merge some better textures from RSS-Origin to RSS-Reborn.
 
 (2) For using RSS-Origin CelestialsPack with Principia:
 - a. Whether to use Principia or not mainly depends on personal preference. Principia makes irregular gravitational field possible, along with more accurate orbital mechanics and axial tilt. If you think those features aren't necessary to you, just ignore Principia.
-- b. IMPORTANT. Don't forget to drag the 2 principia cfgs in RSS-Origin.CelestialsPack.Core.zip! Or your game will probably get crashed! Or your moons will probably get into wrong orbits!
-- c. Due to the limitation of Principia itself, you can add new celestials before you start a new save, and you can remove any number of them after you start a new save, but you cannot add new celestials to your old saves.
+- b. Due to the limitation of Principia itself, you can add new celestials before you start a new save, and you can remove any number of them before you start a new save, but you cannot add/remove celestials to your old saves.
 
 (3) For using RSS-Origin CelestialsPack without Principia:
-- a. You don't have to do the procedure as said in <(2)-b>.
-- b. You can add/remove any number of new celestials at any time to any of your old saves or new saves.
+- a. You can add/remove any number of new celestials at any time to any of your old saves or new saves.
 
 (4) For general gameplay of RSS-Origin
 - a. The game starts at 1951-01-01, so if you want to focus the two interstellar objects, you may need to warp to at least 50 years later in the game.
 - b. You can change the types of orbit color and celestial icon in GameData/RSSOrigin/RSSOriginSettings.cfg according to your own favor.
 
 (5) For other compatibilities
-- a. RSS-Origin CelestialsPack supports you to playing it at KSRSS scale via Sigma Dimensions. (without Principia)
+- a. RSS-Origin CelestialsPack is compatible with KSRSS.
+- b. RSS-Origin CelestialsPack is compatible with Kcalbeloh.
 
 ### Dependencies and recommendations
 
@@ -214,8 +209,8 @@ Seriously, I didn't expect anything incompatible. If there has to be an answer, 
 2. Unzip **"_RSS-Origin Core.zip_"**，put "RSSOrigin" into your Gamedata.
 3. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
 4. Go to the release page of this repository, choose what celestial(s) you desired, download it.
-5. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**，you will find 2 folders, Principia and RSSOrigin. Put both of them into your Gamedata and overwrite the 2 cfgs of Principia. (if you are playing without Principia, just ignore the 2 cfgs)
-6. Unzip the **_celestial pack(s).zip_**, and put all of them into your Gamedata.
+5. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**. Put the folder "RSSOrigin" into your Gamedata.
+6. Unzip the **_celestial pack(s).zip_**. Put the folder(s) "RSSOrigin" into your Gamedata.
 7. Follow the [step in "Important note"](README.md#-important-note) above.
 8. If you are playing **without** Principia, just launch the game and continue your saves.
 9. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
