@@ -131,7 +131,7 @@ Textures in this pack do not exceed 8k. Larger bodies uses 4k textures or lower,
 
 ### Things you should know:
 
-Since this mod adds 141 extra celestial bodies to your game by default, along with 33 celestial bodies from RSS, for a total of 174, **this will cause your game to lag during acceleration and slow scene switching**. Given this situation, the folder structure of this mod is: each celestial or celestial system is placed in a separate folder, and you can add or remove celestial folders according to your own needs to ensure the smoothness of your gameplay.
+Since this mod adds 198 extra celestial bodies to your game by default, along with 33 celestial bodies from RSS, for a total of 231, **this will cause your game to lag during acceleration and slow scene switching**. Given this situation, the folder structure of this mod is: each celestial or celestial system is placed in a separate folder, and you can add or remove celestial folders according to your own needs to ensure the smoothness of your gameplay.
 
 We strongly **do not recommend** installing all celestials at once. (except for viewing scenery or searching for your target(s))
 
@@ -180,8 +180,8 @@ You can choose orbit line color and whether to use astrological symbols or not i
 
 ### Dependencies and recommendations
 
--[Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) and all dependencies of it (of course)
--[Niako's Kopernicus Utilities (Smoother Heightmaps)](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
+- [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) and all dependencies of it (of course)
+- [Niako's Kopernicus Utilities (Smoother Heightmaps)](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 
 (In case you are new to KSP, dependencies of RSS are: [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*), [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-*), [RSS-Textures](https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*), [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*))
 
