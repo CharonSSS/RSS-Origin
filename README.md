@@ -180,8 +180,8 @@ You can choose orbit line color and whether to use astrological symbols or not i
 
 ### Dependencies and recommendations
 
-- [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) and all dependencies of it (of course)
-- [Niako's Kopernicus Utilities (Smoother Heightmaps)](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
+- [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) and all dependencies of it (of course).
+- [Niako's Kopernicus Utilities (Smoother Heightmaps)](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/). This mod is bundled in RSS-Origin.CelestialsPack.Core.zip so you needn't to download it seperately.
 
 (In case you are new to KSP, dependencies of RSS are: [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*), [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-*), [RSS-Textures](https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*), [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*))
 
@@ -208,13 +208,13 @@ Seriously, I didn't expect anything incompatible. If there has to be an answer, 
 ### Download & installation instruction
 
 1. Go to the release page of this repository, download **"_RSS-Origin Core.zip_"**.
-2. Unzip **"_RSS-Origin Core.zip_"**，put "RSSOrigin" into your Gamedata.
+2. Unzip **"_RSS-Origin Core.zip_"**，put the folder "RSSOrigin" into your Gamedata.
 3. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
 4. Go to the release page of this repository, choose what celestial(s) you desired, download it.
-5. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**. Put the folder "RSSOrigin" into your Gamedata.
+5. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**. Put the folder "RSSOrigin" and "000_NiakoUtils" into your Gamedata.
 6. Unzip the **_celestial pack(s).zip_**. Put the folder(s) "RSSOrigin" into your Gamedata.
 7. Follow the [step in "Important note"](README.md#-important-note) above.
-8. If you are playing **without** Principia, just launch the game and continue your saves.
+8. If you are playing **without** Principia, launch your game and continue your saves.
 9. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
 
 ### Hardward requirements
