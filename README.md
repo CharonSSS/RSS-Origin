@@ -242,7 +242,7 @@ Dependency: [Real Solar System](https://forum.kerbalspaceprogram.com/topic/17721
 
 Recommend: If you want realistic ring shadow, [Scatterer](http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip-scatterer-atmospheric-scattering) is needed.
 
-Incompatibles: All the other ring mods or visual packs that adds rings. Make sure there're no other rings and ring cfgs in your gamedata except for the RSS one of Saturn.
+Incompatibles: **_RSS-Origin JSUNrings_** should has the ability to overwrite other ring configs in most cases. If it doesn't, feel free to contact me in discord.
 
 ### Download & installation instruction
 
