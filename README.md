@@ -207,15 +207,13 @@ Seriously, I didn't expect anything incompatible. If there has to be an answer, 
 
 ### Download & installation instruction
 
-1. Go to the release page of this repository, download **"_RSS-Origin Core.zip_"**.
-2. Unzip **"_RSS-Origin Core.zip_"**，put the folder "RSSOrigin" into your Gamedata.
-3. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
-4. Go to the release page of this repository, choose what celestial(s) you desired, download it.
-5. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**. Put the folder "RSSOrigin" and "000_NiakoUtils" into your Gamedata.
-6. Unzip the **_celestial pack(s).zip_**. Put the folder(s) "RSSOrigin" into your Gamedata.
-7. Follow the [step in "Important note"](README.md#-important-note) above.
-8. If you are playing **without** Principia, launch your game and continue your saves.
-9. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
+1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
+2. Go to the release page of this repository, choose what celestial(s) you desired, download it.
+3. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**. Put the folder "RSSOrigin" and "000_NiakoUtils" into your Gamedata.
+4. Unzip the **_celestial pack(s).zip_**. Put the folder(s) "RSSOrigin" into your Gamedata.
+5. Follow the [step in "Important note"](README.md#-important-note) above.
+6. If you are playing **without** Principia, launch your game and continue your saves.
+7. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
 
 ### Hardward requirements
 If you can run RSS (or RSS+Principia) on your device, you can run this mod. But notice, more celestials added to your game means better device you should have.
@@ -231,8 +229,8 @@ This mod is incompatible with RSS-Reborn. If you want to use my mod and you are 
 
 1. Go to the release page of this repository, download **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**.
 2. Go to the release page of this repository, choose a resolution you desired, download it.
-3. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**，put all the files into your Gamedata and overwrite all.
-4. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Textures(xx)k.zip_"**，put all the files into your Gamedata and overwrite all.
+3. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**，put the folder "RealSolarSystem" into your Gamedata and overwrite all.
+4. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Textures(xx)k.zip_"**，put the folder "RSS-Textures" into your Gamedata and overwrite all.
 5. Launch your game.
 
 ### Hardward requirements
@@ -248,11 +246,9 @@ Incompatibles: All the other ring mods or visual packs that adds rings. Make sur
 
 ### Download & installation instruction
 
-1. Go to the release page of this repository, download **"_RSS-Origin Core.zip_"**.
-2. Unzip **"_RSS-Origin Core.zip_"**，put "RSSOrigin" into your Gamedata.
-3. Go to the release page of this repository, download **"_RSS-Origin JSUNrings.zip_"**.
-4. Unzip **"_RSS-Origin JSUNrings.zip_"**，put all the files into your Gamedata.
-5. Launch your game.
+1. Go to the release page of this repository, download **"_RSS-Origin JSUNrings.zip_"**.
+2. Unzip **"_RSS-Origin JSUNrings.zip_"**，put the folder "RSSOrigin" into your Gamedata.
+3. Launch your game.
 
 ## For _RSS-Origin GalaxyTex_
 
@@ -264,11 +260,9 @@ Incompatibles: Other skybox packs or mods that adds custom skybox.
 
 ### Download & installation instruction
 
-1. Go to the release page of this repository, download **"_RSS-Origin Core.zip_"**.
-2. Unzip **"_RSS-Origin Core.zip_"**，put "RSSOrigin" into your Gamedata.
-3. Go to the release page of this repository, choose a resolution and format you desired, download **"_RSS-Origin GalaxyTex(xx)k.zip_"**.
-4. Unzip **"_RSS-Origin GalaxyTex(xx)k.zip_"**，put all the files into your Gamedata.
-5. Launch your game.
+1. Go to the release page of this repository, choose a resolution and format you desired, download **"_RSS-Origin GalaxyTex(xx)k.zip_"**.
+2. Unzip **"_RSS-Origin GalaxyTex(xx)k.zip_"**，put all the files into your Gamedata.
+3. Launch your game.
 
 ***
 # Credit
