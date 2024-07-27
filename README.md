@@ -175,8 +175,8 @@ You can choose orbit line color and whether to use astrological symbols or not i
 - b. You can change the types of orbit color and celestial icon in GameData/RSSOrigin/RSSOriginSettings.cfg according to your own favor.
 
 (5) For other compatibilities
-- a. RSS-Origin CelestialsPack is compatible with KSRSS.
-- b. RSS-Origin CelestialsPack is compatible with Kcalbeloh.
+- a. RSS-Origin CelestialsPack is compatible with [KSRSS (KSRSS-Reborn)](https://gitlab.com/ksrss/KSRSS/-/tree/reborn).
+- b. RSS-Origin CelestialsPack is compatible with [Kcalbeloh](https://github.com/jcyuan06/Kcalbeloh-System).
 
 ### Dependencies and recommendations
 
@@ -221,7 +221,7 @@ If you can run RSS (or RSS+Principia) on your device, you can run this mod. But 
 ## For _RSS-Origin RSSTexture&TopoRevamp_
 
 ### Dependencies and compatibilities:
-This mod is compatible with [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*), [RSS-Reborn](https://github.com/RSS-Reborn) and KSRSS. So the dependency is RSS, or RSS-Reborn, or KSRSS.
+This mod is compatible with [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*), [RSS-Reborn](https://github.com/RSS-Reborn) and [KSRSS (KSRSS-Reborn)](https://gitlab.com/ksrss/KSRSS/-/tree/reborn). So the dependency is RSS, or RSS-Reborn, or KSRSS (KSRSS-Reborn).
 
 Incompatibles:
 No incompatibles so far.
