@@ -223,14 +223,14 @@ If you can run RSS (or RSS+Principia) on your device, you can run this mod. But 
 **This mod only replaces textures and cfgs, so [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) is the only dependency.**
 
 Incompatibles:
-This mod is incompatible with RSS-Reborn. If you want to use my mod and you are using RSS-Reborn at the same time, please contact me or [@ballisticfox](https://github.com/ballisticfox) in discord first. If you have the ability to correctly merge and modify mods, you can go for it and do it yourself.
+No incompatibles so far.
 
 ### Download & installation instruction
 
 1. Go to the release page of this repository, download **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**.
 2. Go to the release page of this repository, choose a resolution you desired, download it.
-3. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**，put the folder "RealSolarSystem" into your Gamedata and overwrite all.
-4. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Textures(xx)k.zip_"**，put the folder "RSS-Textures" into your Gamedata and overwrite all.
+3. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**，put the folder "RSSOrigin" into your Gamedata.
+4. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Textures(xx)k.zip_"**，put the folder "RSSOrigin" into your Gamedata.
 5. Launch your game.
 
 ### Hardward requirements
