@@ -220,7 +220,8 @@ If you can run RSS (or RSS+Principia) on your device, you can run this mod. But 
 
 ## For _RSS-Origin RSSTexture&TopoRevamp_
 
-**This mod only replaces textures and cfgs, so [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*) is the only dependency.**
+### Dependencies and compatibilities:
+This mod is compatible with [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*), [RSS-Reborn](https://github.com/RSS-Reborn) and KSRSS. So the dependency is RSS, or RSS-Reborn, or KSRSS.
 
 Incompatibles:
 No incompatibles so far.
