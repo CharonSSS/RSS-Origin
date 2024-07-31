@@ -208,7 +208,7 @@ Seriously, I didn't expect anything incompatible. If there has to be an answer, 
 
 ### Download & installation instruction
 
-**Option #1: Using CKAN**
+**Option #1: Using CKAN, and then follow the [step in "Important note"](README.md#-important-note) above.**
 
 **Option #2: Manually install**
 1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
