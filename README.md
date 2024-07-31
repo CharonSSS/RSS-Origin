@@ -7,7 +7,7 @@ This mod is still **work-in-progress**, some features are still **under construc
 
 **If you want to play it right now, just go to release and download.**
 
-**If you want to report bugs of my mod, or you have some ideas or questions about it, I've got a discord channel in Kopernicus server: https://discord.com/channels/365524830667145219/1200124792339169330, and a channel in FoxTech: https://discord.com/channels/1155248133262024745/1201665996612698113. You can contact me in both channels.**
+**If you want to report bugs of my mod, or you have some ideas or questions about it, I've got a discord channel in Kopernicus server: [Kopernicus#charon-s-rss-origin](https://discord.com/channels/365524830667145219/1200124792339169330), and a channel in FoxTech: [FoxTech#origin-general](https://discord.com/channels/1155248133262024745/1201665996612698113). You can contact me in both channels.**
 
 ***
 # !!!Please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!!!
