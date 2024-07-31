@@ -212,7 +212,7 @@ Seriously, I didn't expect anything incompatible. If there has to be an answer, 
 
 **Option #2: Manually install**
 1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
-2. Go to the release page of this repository, choose what celestial(s) you desired, download it.
+2. Go to the release page of this repository, choose the celestial(s) you desired, download it.
 3. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**. Put the folder "RSSOrigin" and "000_NiakoUtils" into your Gamedata.
 4. Unzip the **_celestial pack(s).zip_**. Put the folder(s) "RSSOrigin" into your Gamedata.
 5. Follow the [step in "Important note"](README.md#-important-note) above.
