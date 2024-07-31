@@ -11,7 +11,7 @@ This mod is still **work-in-progress**, some features are still **under construc
 
 ***
 # !!!Please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!!!
-# RSS-Origin is available on CKAN since 2024/7/31. It's recommended to install RSS-Origin using CKAN but reading "[Installation Guide](README.md#installation-guide)" is still required!
+# RSS-Origin is available on CKAN since 2024/07/31. It's recommended to install RSS-Origin using CKAN but reading "[Installation Guide](README.md#installation-guide)" is still required!
 ***
 
 # About the mod
