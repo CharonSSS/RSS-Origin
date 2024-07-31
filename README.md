@@ -11,6 +11,7 @@ This mod is still **work-in-progress**, some features are still **under construc
 
 ***
 # !!!Please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!!!
+# RSS-Origin is available on CKAN since 2024/7/31. It's recommended to install RSS-Origin using CKAN but reading "[Installation Guide](README.md#installation-guide)" is still required!
 ***
 
 # About the mod
@@ -207,6 +208,9 @@ Seriously, I didn't expect anything incompatible. If there has to be an answer, 
 
 ### Download & installation instruction
 
+**Option #1: Using CKAN**
+
+**Option #2: Manually install**
 1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
 2. Go to the release page of this repository, choose what celestial(s) you desired, download it.
 3. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**. Put the folder "RSSOrigin" and "000_NiakoUtils" into your Gamedata.
@@ -228,6 +232,9 @@ No incompatibles so far.
 
 ### Download & installation instruction
 
+**Option #1: Using CKAN**
+
+**Option #2: Manuallyinstall**
 1. Go to the release page of this repository, download **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**.
 2. Go to the release page of this repository, choose a resolution you desired, download it.
 3. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**，put the folder "RSSOrigin" into your Gamedata.
@@ -247,6 +254,9 @@ Incompatibles: **_RSS-Origin JSUNrings_** should has the ability to overwrite ot
 
 ### Download & installation instruction
 
+**Option #1: Using CKAN**
+
+**Option #2: Manually install**
 1. Go to the release page of this repository, download **"_RSS-Origin JSUNrings.zip_"**.
 2. Unzip **"_RSS-Origin JSUNrings.zip_"**，put the folder "RSSOrigin" into your Gamedata.
 3. Launch your game.
@@ -259,6 +269,9 @@ Incompatibles: Other skybox packs or mods that adds custom skybox.
 
 ### Download & installation instruction
 
+**Option #1: Using CKAN**
+
+**Option #2: Manually install**
 1. Go to the release page of this repository, choose a resolution you desired, download **"_RSS-Origin GalaxyTex(xx)k.zip_"**.
 2. Unzip **"_RSS-Origin GalaxyTex(xx)k.zip_"**，put the folder "RSSOrigin" into your Gamedata.
 3. Launch your game.
