@@ -186,10 +186,6 @@ You can choose orbit line color and whether to use astrological symbols or not i
 
 (In case you are new to KSP, dependencies of RSS are: [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*), [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-*), [RSS-Textures](https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*), [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*))
 
-### !!! Important note：
-#### - Check if you have "[KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*)" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings. If you don't follow this step, you "may" experience a extremely laggy gameplay once you are inflight.
-#### - If you haven't install "KSP Community Fixes" yet, install it, and follow the step above. If "KSP Community Fixes" is not in your gamedata, you will be sure to experience the same issue.
-
 Highly recommend: 
 - [Principia](https://forum.kerbalspaceprogram.com/topic/162200-*)
 - [Realism Overhaul](http://forum.kerbalspaceprogram.com/index.php?/topic/155700-122-realism-overhaul-v1150-05262017/)
@@ -208,16 +204,15 @@ Seriously, I didn't expect anything incompatible. If there has to be an answer, 
 
 ### Download & installation instruction
 
-**Option #1: Using CKAN, and then follow the [step in "Important note"](README.md#-important-note) above.**
+**Option #1: Using CKAN.**
 
 **Option #2: Manually install**
 1. Go to the release page of this repository, download **"_RSS-Origin CelestialsPack Core.zip_"**.
 2. Go to the release page of this repository, choose the celestial(s) you desired, download it.
 3. Unzip **"_RSS-Origin CelestialsPack Core.zip_"**. Put the folder "RSSOrigin" and "000_NiakoUtils" into your Gamedata.
 4. Unzip the **_celestial pack(s).zip_**. Put the folder(s) "RSSOrigin" into your Gamedata.
-5. Follow the [step in "Important note"](README.md#-important-note) above.
-6. If you are playing **without** Principia, launch your game and continue your saves.
-7. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
+5. If you are playing **without** Principia, launch your game and continue your saves.
+6. If you are playing **with** Principia, launch your game and create a new save to play. (Don't open your old saves, or your game will crash or your save will be broken!)
 
 ### Hardward requirements
 If you can run RSS (or RSS+Principia) on your device, you can run this mod. But notice, more celestials added to your game means better device you should have.
