@@ -1,4 +1,4 @@
-# Credit (As of 25/07/2024)
+# Credit (As of 19/09/2024)
 
 ## Author: **Charon_S (me)**
 
@@ -12,6 +12,7 @@
 	Alice Christina
 	ballisticfox
 	caps lock
+ 	KEKKJ
 	Lekword
 	猫猫是我心头好
 	R-T-B
