@@ -5,13 +5,11 @@
 # Note
 This mod is still **work-in-progress**, some features are still **under construction**. Me and my team are devoting every effort to improve it.
 
-**If you want to play it right now, just go to release and download.**
-
-**If you want to report bugs of my mod, or you have some ideas or questions about it, I've got a discord channel in Kopernicus server: [Kopernicus#charon-s-rss-origin](https://discord.com/channels/365524830667145219/1200124792339169330), and a channel in FoxTech: [FoxTech#origin-general](https://discord.com/channels/1155248133262024745/1201665996612698113). You can contact me in both channels.**
+**If you want to report bugs of my mod, or you have some ideas or questions about it, I have a discord channel in Kopernicus server: [Kopernicus#charon-s-rss-origin](https://discord.com/channels/365524830667145219/1200124792339169330), and a channel in FoxTech: [FoxTech#origin-general](https://discord.com/channels/1155248133262024745/1201665996612698113). You can contact me in both channels.**
 
 ***
 # !!!Please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!!!
-# Substantial part of RSS-Origin is available on CKAN since 2024/07/31. It's recommended to install RSS-Origin using CKAN but reading "[Installation Guide](README.md#installation-guide)" is still required!
+# RSS-Origin is available on CKAN since 2024/07/31. It's recommended to install RSS-Origin using CKAN but reading "[Installation Guide](README.md#installation-guide)" is still required!
 ***
 
 # About the mod
@@ -32,7 +30,7 @@ Like the title, **this mod is basically an expansion for "[Real Solar System](ht
 
 - ## _RSS-Origin CelestialsPack_
 
-**_RSS-Origin CelestialsPack_** is originally made for playing in Principia, now too. Many of its unique features can only be displayed in Principia, like **gravitational field of irregular potatoes**, **binary/trinary systems**, **orbital mechanics of trojans and co-orbitals**, **small objects swinging by major planet changing its orbit**,etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, and there are relatively good averaged orbit elements; but I bet you won't get best experience, especially when conducting interplanetary missions.
+**_RSS-Origin CelestialsPack_** is originally made for playing in Principia. Many of its unique features can only be displayed in Principia, like **irregular gravitational field of irregular "potatoes"**, **binary/trinary systems**, **orbital mechanics of trojans and co-orbitals**, **small objects swinging by major planet changing its orbit**, etc. **So it is highly recommended to play the mod in Principia.** You can play without Principia though, but I bet you won't get the best experience, especially when conducting interplanetary missions.
 
 Me and my team are doing our best to ensure that every celestial body visited by spacecraft uses models and textures that are as close to reality as possible in the game, celestial bodies that have not been visited by spacecraft use their models and spectra based on reliable observations as much as possible. The physical characteristics of those completely unknown objects are reasonable artistic creations based solely on existing data.
 
@@ -160,9 +158,9 @@ You can choose orbit line color and whether to use astrological symbols or not i
 
 (1) For the capability of RSS-Origin and RSS-Reborn:
 - a. RSS-Origin CelestialsPack is fully compatible with RSS-Reborn.
-- b. RSS-Origin JSUNrings is compatible with current verison of RSS-Reborn. In next RSS-Reborn update, Fox will probably merge and modify the rings from RSS-Origin to RSS-Reborn, which means if you have installed RSS-Reborn, you needn't to install RSS-Origin JSUNrings.
-- c. If you want to use RSS-Origin GalaxyTex while RSS-Reborn is installed, you have to remove the Skybox folder in GameData/RSS-Configs.
-- d. RSS-Origin RSSTexture&TopoRevamp is totally incompatible with RSS-Reborn. But, same as RSS-Origin JSUNrings, Fox will merge some better textures from RSS-Origin to RSS-Reborn.
+- b. RSS-Origin JSUNrings is compatible with current verison of RSS-Reborn. Ballisticfox will probably merge and modify the rings from RSS-Origin to RSS-Reborn later but I'm not sure as yet.
+- c. RSS-Origin GalaxyTex is compatible with RSS-Reborn.
+- d. RSS-Origin RSSTexture&TopoRevamp is mostly compatible with RSS-Reborn. But, same as RSS-Origin JSUNrings, Fox will probably merge some better textures from RSS-Origin to RSS-Reborn later.
 
 (2) For using RSS-Origin CelestialsPack with Principia:
 - a. Whether to use Principia or not mainly depends on personal preference. Principia makes irregular gravitational field possible, along with more accurate orbital mechanics and axial tilt. If you think those features aren't necessary to you, just ignore Principia.
@@ -200,7 +198,7 @@ Recommend:
 - [TUFX](https://forum.kerbalspaceprogram.com/index.php?/topic/192212-*)
 
 Incompatibles:
-Seriously, I didn't expect anything incompatible. If there has to be an answer, it is other expansion packs for RSS.
+Other expansion packs for RSS.
 
 ### Download & installation instruction
 
@@ -219,17 +217,19 @@ If you can run RSS (or RSS+Principia) on your device, you can run this mod. But 
 
 ## For _RSS-Origin RSSTexture&TopoRevamp_
 
+### Don't open your old saves after installing _RSS-Origin RSSTexture&TopoRevamp_ if you're playing with Principia! The previous statement is false if you aren't using Principia.
+
 ### Dependencies and compatibilities:
 This mod is compatible with [Real Solar System](https://forum.kerbalspaceprogram.com/topic/177216-*), [RSS-Reborn](https://github.com/RSS-Reborn) and [KSRSS (KSRSS-Reborn)](https://gitlab.com/ksrss/KSRSS/-/tree/reborn). So the dependency is RSS, or RSS-Reborn, or KSRSS (KSRSS-Reborn).
 
 Incompatibles:
-No incompatibles so far.
+It is partially compatible with RSS-Rebron. Higher quality textures of Phobos, Ceres and Vesta from RSS-Reborn will overwrite the RSS-Origin's.
 
 ### Download & installation instruction
 
 **Option #1: Using CKAN**
 
-**Option #2: Manuallyinstall**
+**Option #2: Manually install**
 1. Go to the release page of this repository, download **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**.
 2. Go to the release page of this repository, choose a resolution you desired, download it.
 3. Unzip **"_RSS-Origin RSSTexture&TopoRevamp Configs.zip_"**，put the folder "RSSOrigin" into your Gamedata.
@@ -245,7 +245,7 @@ Dependency: [Real Solar System](https://forum.kerbalspaceprogram.com/topic/17721
 
 Recommend: If you want realistic ring shadow, [Scatterer](http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip-scatterer-atmospheric-scattering) is needed.
 
-Incompatibles: **_RSS-Origin JSUNrings_** should has the ability to overwrite other ring configs in most cases. If it doesn't, feel free to contact me in discord.
+Incompatibles: **_RSS-Origin JSUNrings_** should has the ability to overwrite other ring configs in most cases. If it doesn't, feel free to contact me.
 
 ### Download & installation instruction
 
@@ -254,13 +254,17 @@ Incompatibles: **_RSS-Origin JSUNrings_** should has the ability to overwrite ot
 **Option #2: Manually install**
 1. Go to the release page of this repository, download **"_RSS-Origin JSUNrings.zip_"**.
 2. Unzip **"_RSS-Origin JSUNrings.zip_"**，put the folder "RSSOrigin" into your Gamedata.
-3. Launch your game.
+3. Launch your game. Go to check if there're faint rings around Uranus. If yes, then you have installed the mod successfully.
+
+**Why only Saturn's rings can be seen?**
+In order to restore the true appearance of the rings as much as possible, I selected the parameters on Wikipedia. I chose the standard optical depth of each part of the ring and converted them to opacity as the transparency of the ring textures. Although opacity and transparency are not exactly the same parameter (one representing optics and the other representing computer graphics), the results look very similar to the real situation.
+So from the perspective of back scattered view, if the exposure is not increased using TUFX or KS3P, the rings of Jupiter and Neptune are completely invisible, and only the ε ring of Uranus can be seen in the distance. If you are careful enough, you can see Uranus' other 9 thin main rings in backscattered view. Of course, the higher the exposure, the easier it is to see. All  rings are visible in forward scattered view (backlit/through sunlight).
 
 ## For _RSS-Origin GalaxyTex_
 
 Dependency: Only [TextureReplacer](https://forum.kerbalspaceprogram.com/index.php?/topic/96851-x) is needed
 
-Incompatibles: Other skybox packs or mods that adds custom skybox.
+Incompatibles: **_RSS-Origin GalaxyTex_** should has the ability to overwrite other skybox configs in most cases. If it doesn't, feel free to contact me.
 
 ### Download & installation instruction
 
@@ -286,6 +290,7 @@ Incompatibles: Other skybox packs or mods that adds custom skybox.
 	Alice Christina
 	ballisticfox
 	caps lock
+	KEKKJ
  	Lekword
 	猫猫是我心头好
 	R-T-B
