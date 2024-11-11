@@ -10,6 +10,7 @@ This mod is still **work-in-progress**, some features are still **under construc
 ***
 # !!!Please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!!!
 # RSS-Origin is available on CKAN since 2024/07/31. It's recommended to install RSS-Origin using CKAN but reading "[Installation Guide](README.md#installation-guide)" is still required!
+# There is a derivative work of RSS-Origin CelestialsPack made by [Qazerowl](https://github.com/Qazerowl), called [RSS-Origin-Less](https://github.com/Qazerowl/RSS-Origin-Less). If you're interested in it you can check it out after reading through the RSS-Origin main page which is what you are reading right now.
 ***
 
 # About the mod
@@ -285,6 +286,7 @@ Incompatibles: **_RSS-Origin GalaxyTex_** should has the ability to overwrite ot
  	Kerbinator Fras
 	NewoEther
 	Proxima-b
+ 	Qazerowl
 
 ### Special Contributors: (Ranked in alphabetical order without distinction of the extent of contribution)
 	Alice Christina
