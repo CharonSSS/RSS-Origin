@@ -1,4 +1,4 @@
-# Credit (As of 19/09/2024)
+# Credit (As of 11/11/2024)
 
 ## Author: **Charon_S (me)**
 
@@ -7,6 +7,7 @@
  	Kerbinator Fras (For Keplerian adaptation and improving and perfecting this repository page)
 	NewoEther (For writing "3D model greyscale generator")
 	Proxima-b (For career mode adaptation)
+ 	Qazerowl (For making RSS-Origin-Less, a derivative work of RSS-Origin CelestialsPack)
 
 ### Special Contributors: (Ranked in alphabetical order without distinction of the extent of contribution)
 	Alice Christina
