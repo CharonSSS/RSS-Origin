@@ -5,7 +5,7 @@
 # Note
 This mod is still **work-in-progress**, some features are still **under construction**. Me and my team are devoting every effort to improve it.
 
-**If you want to report bugs of my mod, or you have some ideas or questions about it, I have a discord channel in Kopernicus server: [Kopernicus#charon-s-rss-origin](https://discord.com/channels/365524830667145219/1200124792339169330), and a channel in FoxTech: [FoxTech#origin-general](https://discord.com/channels/1155248133262024745/1201665996612698113). You can contact me in both channels.**
+**If you want to report bugs of my mod, or you have some ideas or questions about it, I have a discord channel in Kopernicus server: [Kopernicus#charon-rss-origin](https://discord.com/channels/365524830667145219/1200124792339169330), and a channel in FoxTech: [FoxTech#origin-general](https://discord.com/channels/1155248133262024745/1201665996612698113). You can contact me in both channels.**
 
 ***
 # !!!Please be sure to read "[Installation Guide](README.md#installation-guide)" before installation!!!
@@ -74,8 +74,6 @@ Textures in this pack do not exceed 8k. Larger bodies uses 4k textures or lower,
 #### **And here is a list of all the objects been revamped. (only maximum resolution listed)**
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/list%20of%20revamped%20objects%2016k.png)
-
-**RSS-Origin GasGiantShapeCorrection is NOT included in current release.**
 
 ***
 
