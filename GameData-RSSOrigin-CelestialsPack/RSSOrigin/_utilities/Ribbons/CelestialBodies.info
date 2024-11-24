@@ -1948,6 +1948,16 @@ Leleākūhonua
 		base prestige = 103
 	}
 }
+153P-Ikeya-Zhang
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin/_utilities/Ribbons
+		ribbon group = 153P-Ikeya-Zhang
+		base prestige = 153
+	}
+}
 Hale-Bopp
 {
 	gas giant = false
@@ -1976,6 +1986,16 @@ C-2012C1
 		ribbon path = RSSOrigin/_utilities/Ribbons
 		ribbon group = C-2012C1
 		base prestige = 20120201
+	}
+}
+Bernardinelli-Bernstein
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin/_utilities/Ribbons
+		ribbon group = Bernardinelli-Bernstein
+		base prestige = 20310123
 	}
 }
 1I-ʻOumuamua
