@@ -1,9 +1,12 @@
-# Credit (As of 11/11/2024)
+# Credit (As of 27/02/2024)
 
 ## Author: **Charon_S (me)**
 
 ### Main Contributors: (Ranked in alphabetical order without distinction of the extent of contribution)
+	Aebestach
+ 	ballisticfox
 	himīśā (For writing "3D model spherical harmonics calculator")
+ 	KEKKJ (For establishing RSS-Origin Chinese Wiki)
  	Kerbinator Fras (For Keplerian adaptation and improving and perfecting this repository page)
 	NewoEther (For writing "3D model greyscale generator")
 	Proxima-b (For career mode adaptation)
@@ -11,9 +14,7 @@
 
 ### Special Contributors: (Ranked in alphabetical order without distinction of the extent of contribution)
 	Alice Christina
-	ballisticfox
 	caps lock
- 	KEKKJ
 	Lekword
 	猫猫是我心头好
 	R-T-B
