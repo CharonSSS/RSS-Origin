@@ -53,23 +53,75 @@ Unless otherwise noted, images and video on JPL public web sites (public sites e
 
 All of the orbital data are from [NASA/JPL's Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/).
 
-Most of the physical data are from the corresponding page on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). Some of the physical data are from websites or papers that I googled.
+Most of the physical data are from the corresponding page on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). Some of the physical data are from websites or papers that I googled. Some of them are my personal assumption based on little known data.
 
 # Textures
 
-Most of the visited objects' textures are directly or indirectly from NASA/JPL under the policy above. Most of the unvisited objects' textures are customly exported using SpaceEngine Pro, allowed to use and modify under the [license of SpaceEngine Pro](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/SpaceEngine%20PRO%20License.txt). Some of the textures are from Celestia Origin, allowed to use and modify under the license of Celestia Origin. Some of the dwarf planets' textures are from [supersean08@www.deviantart.com](https://www.deviantart.com/supersean08) and [JCP-JohnCarlo@www.deviantart.com](https://www.deviantart.com/jcp-johncarlo), allowed to use and modify under free license.
+**RSS-Origin CelestialsPack:**
 
-Most of the textures in RSS-Origin RSSTexture&TopoRevamp are from SpaceEngine's DLCs, allowed to use and modify under the [license of SpaceEngine Pro](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/SpaceEngine%20PRO%20License.txt). Some of it credit to [Astra-Planetshine@www.deviantart.com](https://www.deviantart.com/astra-planetshine), allowed to use and modify under Astra-Planetshine's personal license. Io's heightmap are from [supersean08@www.deviantart.com](https://www.deviantart.com/supersean08).
+Most of the visited objects' textures are directly or indirectly from NASA/JPL.
 
-Ring textures are from SpaceEngine, allowed to use and modify under the [license of SpaceEngine Pro](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/SpaceEngine%20PRO%20License.txt). Some of it credit to [Astra-Planetshine@www.deviantart.com](https://www.deviantart.com/astra-planetshine), allowed to use and modify under Astra-Planetshine's personal license.
+Most textures of unvisited objects and distantly visited objects are customly exported using SpaceEngine Pro, allowed to use and modify under the [license of SpaceEngine Pro](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/SpaceEngine%20PRO%20License.txt). 
 
-[Milky Way starmaps](https://svs.gsfc.nasa.gov/4851) are from NASA/JPL under the policy above.
+Credit list of some exceptional objects' textures in RSS-Origin CelestialsPack:
+- SVII Hyperion - [A.E. Zubarev, I.E. Nadezhdina](https://www.sciencedirect.com/science/article/pii/S0019103524005001?via%3Dihub)
+- SIX Phoebe - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
+- NII Nereid - [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Nereid-addon-for-Celestia-and-Blender-Mesh-715822623)
+- 21 Lutetia - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
+- 243 Ida - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
+- 253 Mathilde - [Askaniy](https://www.deviantart.com/askaniy/art/253-Mathilde-Grayscale-Texture-Map-833589592)
+- 433 Eros - [Askaniy](https://www.deviantart.com/askaniy/art/433-Eros-Grayscale-Texture-Map-14K-825783102)
+- 951 Gaspra - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
+- 2867 Šteins - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
+- 101955 Bennu - [Askaniy](https://www.deviantart.com/askaniy/art/Bennu-Albedo-Map-889170234)
+- 152830 Dinkinesh-Selam - [SpaceExplorer on Celestia forum](https://celestiaproject.space/forum/viewtopic.php?f=23&t=18410&p=163471&hilit=dinkinesh#p163471)
+- 162173 Ryugu - [Askaniy](https://www.deviantart.com/askaniy/art/Ryugu-Albedo-Map-1007073666)
+- 486958 Arrokoth - [Askaniy](https://www.deviantart.com/askaniy/art/Arrokoth-Texture-Map-818386070)
+- Dwarf planet Eris - [Kexitt](https://www.deviantart.com/kexitt/art/KD-2-Eris-Makemake-and-Sedna-s-maps-663049252)
+- Dwarf planet Haumea - [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Haumea-Artist-s-Impression-v3-566021580)
+- Dwarf planet Makemake - [Kexitt](https://www.deviantart.com/kexitt/art/KD-2-Eris-Makemake-and-Sedna-s-maps-663049252)
+- Dwarf planet Gonggong - [Kexitt](https://www.deviantart.com/kexitt/art/2007-OR10-maps-692696829)
+- Dwarf planet Quaoar - [MrSpace43](https://celestiaproject.space/forum/viewtopic.php?f=6&t=19924)
+- Dwarf planet Sedna - [Kexitt](https://www.deviantart.com/kexitt/art/KD-2-Eris-Makemake-and-Sedna-s-maps-663049252)
+- Dwarf planet Orcus - [MrSpace43](https://celestiaproject.space/forum/viewtopic.php?f=6&t=19924)
+
+**RSS-Origin RSSTexture&TopoRevamp:**
+
+Credit list of some exceptional objects' textures in RSS-Origin RSSTexture&TopoRevamp:
+- MI Phobos - [Sol](https://github.com/RSS-Reborn/Sol-Configs/tree/main)
+- JI Io (heightmap) - [supersean08](https://www.deviantart.com/supersean08/art/Io-16k-1024368241)
+- JII Europa (heightmap) - [Sol](https://github.com/RSS-Reborn/Sol-Configs/tree/main)
+- Saturn - [supersean08](https://www.deviantart.com/supersean08/art/Saturn-16k-Textures-908891418)
+- SVIII Iapetus - [Kexitt](https://www.deviantart.com/kexitt/art/8k-Iapetus-Maps-810498781)
+- Uranus - [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Uranus-677850022)
+- Uranus' major moons - [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/gallery/all)
+- Neptune - [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Uranus-677850022)
+- Pluto - [supersean08](https://www.deviantart.com/supersean08/art/Pluto-16K-Textures-908995636)
+- Charon - [Kexitt](https://www.deviantart.com/kexitt/art/8k-Charon-Maps-806704811)
+
+The texture of objects not mentioned in RSS-Origin RSSTexture&TopoRevamp are from either SpaceEngine's DLCs or NASA/JPL.
+
+**Ring textures:**
+- Jupiter's rings - adjusted from SpaceEngine.
+- Saturn's rings - adjusted from [Björn Jónsson](http://bjj.mmedia.is/data/s_rings/index.html)
+- Uranus's rings - adjusted from [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Uranus-677850022)
+- Neptune's rings - adjusted from [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Neptune-686135009)
+
+[Milky Way starmaps](https://svs.gsfc.nasa.gov/4851) are from NASA/JPL.
 
 Celestial icons are from https://commons.wikimedia.org/wiki/Category:Astronomical_symbols.
 
 # 3D models
 
-Most of the visited objects' models are from [3D Asteroid Catalogue](https://3d-asteroids.space/), in which the models are mainly from NASA/JPL or related websites.
+Most of the visited objects' models are from [3D Asteroid Catalogue](https://3d-asteroids.space/), [SBMT](https://sbmt.jhuapl.edu/), and [tato_713@www.printables.com](https://www.printables.com/@tato).
 
-Some of the models are from [tato_713@www.printables.com](https://www.printables.com/@tato), allowed to use and modify under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+Most of the unvisited objects' models are my own work.
 
+Credit list of some exceptional objects' model
+- 16 Psyche - [PsycheMission (Lindy Elkins-Tanton, Peter Rubin, et al.)](https://www.thingiverse.com/thing:2373526)
+- JXV Adrastea - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
+- JXVI Metis - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
+- SVII Hyperion - [A.E. Zubarev, I.E. Nadezhdina](https://www.sciencedirect.com/science/article/pii/S0019103524005001?via%3Dihub)
+- UXV Puck - [Celestia](https://celestiaproject.space/)
+- NII Nereid - [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Nereid-addon-for-Celestia-and-Blender-Mesh-715822623)
+- 152830 Dinkinesh-Selam - [SpaceExplorer on Celestia forum](https://celestiaproject.space/forum/viewtopic.php?f=23&t=18410&p=163471&hilit=dinkinesh#p163471)
