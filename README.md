@@ -1,3 +1,5 @@
+# Important note: RSS-Origin 1.xx does **NOT** support Sol. Do **NOT** install RSS-Origin from here if you're playing with Sol. The future Sol-compatible RSS-Origin 2 is still in development. I'm excepting late February for it to be finally released.
+
 # (WIP) _***RSS-Origin - Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls for RSS***_
 
 ![A](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/insignia%20by%20Alice%20Christina%20wide.png)
