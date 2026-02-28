@@ -55,6 +55,8 @@ All of the orbital data are from [NASA/JPL's Horizons System](https://ssd.jpl.na
 
 Most of the physical data are from the corresponding page on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). Some of the physical data are from websites or papers that I googled. Some of them are my personal assumption based on little known data.
 
+All of the color data are from [TrueColorTools by Askaniy](https://github.com/Askaniy/TrueColorTools). [CylindricalTextureCalibrator by Askaniy](https://github.com/Askaniy/CylindricalTextureCalibrator) are used to process color maps.
+
 # Textures
 
 **RSS-Origin CelestialsPack:**
